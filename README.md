@@ -15,4 +15,16 @@ edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
 
 ![Browser](Images/Screenshot_5.png)
 
-- What is Jenkins
+- What is Jenkins?
+
+
+- What is Continuous Integration?
+
+
+- Continuous Integration Tools
+
+
+- Features of Jenkins
+
+
+
