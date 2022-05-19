@@ -37,6 +37,26 @@ edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
 
 ![Browser](Images/Screenshot_10.png)
 
+- Jenkins Architecture
+
+![Browser](Images/Screenshot_11.png)
+
+- Master-Slave Architecture
+![Browser](Images/Screenshot_12.png)
+
+
+- Jenkins Case Study
+
+- Key Takeaways
+
+![Browser](Images/Screenshot_13.png)
+
+---
+
+
+
+
+
 
 
 
