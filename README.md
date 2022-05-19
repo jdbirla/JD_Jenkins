@@ -1,8 +1,16 @@
 # JD Jenkins Leanrnings
 
+simplilearn1 : https://www.youtube.com/watch?v=FX322RVNGj4
+simplilearn2 : https://www.youtube.com/watch?v=LFDrDnKPOTg
+edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
 
-luv2code: https://www.youtube.com/watch?v=Fe6lrsPmseo&list=PLEAQNNR8IlB7uvr8EJbCNJq2I82A8cqE7
-in28mins: https://www.youtube.com/watch?v=0CFWeVgzsqY
-simplilearn: https://www.youtube.com/watch?v=p0LPfK_oNCM&t=571s
 
 
+## simplilearn2
+
+## What You Will Learn during this Step 01:
+- Before Jenkins
+
+![Browser](Images/Screenshot_5.png)
+
+- What is Jenkins
