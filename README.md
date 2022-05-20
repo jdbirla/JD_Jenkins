@@ -1,10 +1,8 @@
 # JD Jenkins Leanrnings
 
-simplilearn1 : https://www.youtube.com/watch?v=FX322RVNGj4
-
-simplilearn2 : https://www.youtube.com/watch?v=LFDrDnKPOTg
-
-edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
+1. simplilearn1 : https://www.youtube.com/watch?v=LFDrDnKPOTg
+2. simplilearn2 : https://www.youtube.com/watch?v=FX322RVNGj4
+3. edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
 
 ## simplilearn1
 
