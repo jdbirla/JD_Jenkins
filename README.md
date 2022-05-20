@@ -55,11 +55,11 @@
 
 ![Browser](Images/Screenshot_31.png)
 
-![Browser](Images/Screenshot_32.png)
 
 ---
 ## Jenkins Installation
 
+![Browser](Images/Screenshot_32.png)
 
 
 
