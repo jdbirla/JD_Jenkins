@@ -1,7 +1,7 @@
 # JD Jenkins Leanrnings
 
-1. simplilearn1 : https://www.youtube.com/watch?v=LFDrDnKPOTg
-2. simplilearn2 : https://www.youtube.com/watch?v=FX322RVNGj4
+1. simplilearn1 : https://www.youtube.com/watch?v=FX322RVNGj4
+2. simplilearn2 : https://www.youtube.com/watch?v=LFDrDnKPOTg
 3. edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
 
 ## simplilearn1
@@ -60,6 +60,15 @@
 ## Jenkins Installation
 
 ![Browser](Images/Screenshot_32.png)
+
+![Browser](Images/Screenshot_33.png)
+
+![Browser](Images/Screenshot_34.png)
+
+![Browser](Images/Screenshot_35.png)
+
+
+
 
 
 
