@@ -6,11 +6,37 @@
 
 ## simplilearn1
 
-## What You Will Learn during this Step 01:
+## Overview:
 
 ![Browser](Images/Screenshot_14.png)
 
 ![Browser](Images/Screenshot_15.png)
+
+---
+
+## DevOps
+
+![Browser](Images/Screenshot_16.png)
+
+![Browser](Images/Screenshot_17.png)
+
+![Browser](Images/Screenshot_18.png)
+
+![Browser](Images/Screenshot_19.png)
+
+![Browser](Images/Screenshot_20.png)
+
+![Browser](Images/Screenshot_21.png)
+
+![Browser](Images/Screenshot_22.png)
+
+![Browser](Images/Screenshot_23.png)
+
+![Browser](Images/Screenshot_24.png)
+
+![Browser](Images/Screenshot_25.png)
+---
+## DevOps Tools
 
 
 
