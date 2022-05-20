@@ -6,8 +6,29 @@ simplilearn2 : https://www.youtube.com/watch?v=LFDrDnKPOTg
 
 edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
 
+## simplilearn1
+
+## What You Will Learn during this Step 01:
+
+![Browser](Images/Screenshot_14.png)
+
+![Browser](Images/Screenshot_15.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ## simplilearn2
 
 ## What You Will Learn during this Step 01:
@@ -50,13 +71,6 @@ edureka : https://www.youtube.com/watch?v=p7-U1_E_j3w
 - Key Takeaways
 
 ![Browser](Images/Screenshot_13.png)
-
----
-
-
-
-
-
 
 
 
