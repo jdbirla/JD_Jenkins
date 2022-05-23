@@ -166,7 +166,131 @@
 ![Browser](Images/Screenshot_61.png)
 
 ---
+## Jenkins Pipeline
 
+![Browser](Images/Screenshot_62.png)
+
+![Browser](Images/Screenshot_63.png)
+
+![Browser](Images/Screenshot_64.png)
+
+![Browser](Images/Screenshot_65.png)
+
+![Browser](Images/Screenshot_66.png)
+
+
+### pipeline basic syntax
+```
+pipeline {
+    agent any
+	stages {
+        stage('Git-Checkout') {
+            steps {
+                echo 'Checking out from git'
+            }
+        }
+		
+	    stage('Build') {
+            steps {
+                echo 'Building the checkout project'
+            }
+        }
+		
+	    stage('Unit-Test') {
+            steps {
+                echo 'Running the unit test'
+            }
+        }
+		
+        stage('Quality-Gate') {
+            steps {
+                echo 'Verfying the quality gates'
+            }
+        }
+    }
+	post {
+	    always{
+		   echo 'This will always run'
+		} 
+		success{
+		   echo 'This will run only if sucessful'
+		} 
+		failure{
+		   echo 'This will run only if failed'
+		} 
+		unstable{
+		   echo 'This will run only if the run was marked as unstable'
+		} 
+		changed{
+		   echo 'This will only run if state  of the pipeline has been changed'
+		   echo 'For example the pipeline was previouly failing but now sucessful'
+		} 
+	}
+}
+
+```
+
+### pipeline basic syntax with github
+```
+pipeline {
+    agent any
+	stages {
+        stage('Git-Checkout') {
+            steps {
+                echo 'Checking out from git';
+                git 'https://github.com/jdbirla/Pipeline_Script.git'
+            }
+        }
+		
+	    stage('Build') {
+            steps {
+                echo 'Building the checkout project';
+                bat 'Build.bat'
+            }
+        }
+		
+	    stage('Unit-Test') {
+            steps {
+                echo 'Running the unit test';
+                bat 'Unit.bat'
+            }
+        }
+		
+        stage('Quality-Gate') {
+            steps {
+                echo 'Verfying the quality gates';
+                bat 'Quality.bat'
+            }
+        }
+        
+        stage('Deploy') {
+            steps {
+                echo 'Deploying to stage env for more tests';
+                bat 'Deploy.bat'
+            }
+        }
+    }
+	post {
+	    always{
+		   echo 'This will always run'
+		} 
+		success{
+		   echo 'This will run only if sucessful'
+		} 
+		failure{
+		   echo 'This will run only if failed'
+		} 
+		unstable{
+		   echo 'This will run only if the run was marked as unstable'
+		} 
+		changed{
+		   echo 'This will only run if state  of the pipeline has been changed'
+		   echo 'For example the pipeline was previouly failing but now sucessful'
+		} 
+	}
+}
+
+```
 
 
 
