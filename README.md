@@ -292,6 +292,13 @@ pipeline {
 
 ```
 
+![Browser](Images/Screenshot_67.png)
+
+![Browser](Images/Screenshot_68.png)
+
+![Browser](Images/Screenshot_69.png)
+
+---
 
 
 
