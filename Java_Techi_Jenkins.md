@@ -8,3 +8,8 @@
 ![image](https://user-images.githubusercontent.com/69948118/177058816-b163ddd2-181b-41bb-a43c-f09b1f6c3db8.png)
 ![image](https://user-images.githubusercontent.com/69948118/177058829-07dd8655-7982-4e74-88c6-88535b5df80b.png)
 
+## Install Jenkins
+![image](https://user-images.githubusercontent.com/69948118/177058893-9279c392-8704-4864-90fe-30481c592483.png)
+![image](https://user-images.githubusercontent.com/69948118/177058921-dbea3af0-6dc4-4437-b974-441708927cbd.png)
+![image](https://user-images.githubusercontent.com/69948118/177059001-e16653f1-1e46-4f73-956d-76a10b69e746.png)
+
