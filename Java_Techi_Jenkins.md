@@ -36,7 +36,38 @@ src: https://www.youtube.com/watch?v=1QLMqyFFEzU&list=PLVz2XdJiJQxwS0BZUHX34ocLT
 - Email configuration
 - ![image](https://user-images.githubusercontent.com/69948118/177060702-72c9f9fe-d7e6-40ad-89a1-8f1cd49b1fd8.png)
 - ![image](https://user-images.githubusercontent.com/69948118/177060760-3a1adae8-3495-42e0-bc7b-7e227701ef6d.png)
+### Continuous Integration Pipeline
+- ![image](https://user-images.githubusercontent.com/69948118/177060991-752336df-7517-4e4e-bceb-ced0d1efb8b9.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061018-dfb91c3a-3260-4bfb-8c0b-c895c39ae91a.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061046-be295c04-681f-48d1-a67a-dfbf284b4a6d.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061057-dc0fbbaf-fd2b-4b82-b998-14db4dd561d6.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061092-b534388a-553b-4b50-b2b4-80e45ab5e9ca.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061104-0977b9b8-9fa2-45ab-95b3-c6011c3ad73b.png)
+- Create build pipeline
+- Create new job as DEV maven goal will be ```install```
+- ![image](https://user-images.githubusercontent.com/69948118/177061138-f2dd4556-b08c-457a-9d1a-6b80e3b886ad.png)
+- Create new job UAT maven goal will be ``` test ```
+- ![image](https://user-images.githubusercontent.com/69948118/177061239-e081492f-3aa3-4086-bc5c-6c4782a84490.png)
+- Create new job PROD maven goal will  be ```install``
+- ![image](https://user-images.githubusercontent.com/69948118/177061289-2903b73b-aff1-40af-9fa4-8bf44f941d7e.png)
+- Create build pipeline using build pipeline plugin please install plugin before create pipeline else option won't available
+- ![image](https://user-images.githubusercontent.com/69948118/177061360-901de8fb-b6ab-437b-b6ed-449bb7977618.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061402-3e245edd-8c94-4d92-a751-287b32734b84.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061426-c52bd948-7d04-410b-a610-c9a3d42a44e7.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061435-caae9764-c51a-4755-b7c8-b7d85475196e.png)
+- Configure each pipeling for after which job it has to run like DEV -> UAT -> PROD
+- ![image](https://user-images.githubusercontent.com/69948118/177061510-c147a162-a4d0-4ccb-a609-22e9ead8ed81.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061556-84048651-ace5-4ad9-a1b9-05c9320260f5.png)
+-  Do some code change and commit
+- ![image](https://user-images.githubusercontent.com/69948118/177061622-ccce8370-3612-48a1-8af2-1392f7abf8a4.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177061641-9eb05ea5-d755-46d4-89b3-71ff2e00107c.png)
 - 
+
+
+
+
+
+
 
 
 
