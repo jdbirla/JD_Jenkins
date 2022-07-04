@@ -111,6 +111,20 @@ src: https://www.youtube.com/watch?v=1QLMqyFFEzU&list=PLVz2XdJiJQxwS0BZUHX34ocLT
 
 ---
 ### CI CD Pipeline Using Jenkins | Deploy Docker Image to Kubernetes using Jenkins
+- ![image](https://user-images.githubusercontent.com/69948118/177089040-4f0fbf59-a285-405c-ae3a-6c0c3ab4a941.png)
+- We need to add plugin for kubernetes
+- ![image](https://user-images.githubusercontent.com/69948118/177089383-a9fc06b7-474a-4474-b3a7-8c36ad980909.png)
+-  Create deployment.yaml file
+-  ![image](https://user-images.githubusercontent.com/69948118/177089735-c363d5de-3b19-4171-b9f9-6b9c61f8f194.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177089817-198055e6-58ca-456d-888b-266ca928da02.png)
+- Commit this file to remote repo
+- ![image](https://user-images.githubusercontent.com/69948118/177090818-273b8a57-c291-4ea7-aaeb-e2e13abdf1d3.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177090853-e4d406c3-c37d-4a2c-8e29-d718c35f4c9e.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177091119-55f81f77-ae59-4bfa-82e0-9a659ef77aac.png)
+- Build Now
+- ![image](https://user-images.githubusercontent.com/69948118/177091422-777ad6a0-0a73-45ff-bbd3-8e8162a70f12.png)
+- 
+
 
 
 
