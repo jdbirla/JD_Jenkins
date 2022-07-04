@@ -61,6 +61,24 @@ src: https://www.youtube.com/watch?v=1QLMqyFFEzU&list=PLVz2XdJiJQxwS0BZUHX34ocLT
 -  Do some code change and commit
 - ![image](https://user-images.githubusercontent.com/69948118/177061622-ccce8370-3612-48a1-8af2-1392f7abf8a4.png)
 - ![image](https://user-images.githubusercontent.com/69948118/177061641-9eb05ea5-d755-46d4-89b3-71ff2e00107c.png)
+
+- Building Docker Images using Jenkins step by step 
+![image](https://user-images.githubusercontent.com/69948118/177067958-2b633918-f5af-42aa-a67c-06702e56491e.png)
+- Create new job
+- ![image](https://user-images.githubusercontent.com/69948118/177068858-b0cb5dda-96cd-4cb9-a051-3f8662199735.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177068890-c9e11d76-9c0b-4138-a6a0-6f7e1dc8c2a2.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177068956-ad832eec-377f-4394-83a6-1874666a8520.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177068997-d2b85a6f-68ca-41c8-b12e-d5a05a5e9d3e.png)
+- In order to connect Jenkins with Docker we need to add some below plugins 
+- ![image](https://user-images.githubusercontent.com/69948118/177069560-382ba100-7b96-4a48-a14e-4e86cd615467.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177069583-c88e1051-6bb8-4c8c-916b-28eabffac341.png)
+- We need to create docler file
+- ![image](https://user-images.githubusercontent.com/69948118/177069811-cbeddddc-ffb9-44a1-b443-0923a9af7bf0.png)
+- Commit and push to remote repo
+- ![image](https://user-images.githubusercontent.com/69948118/177069959-4e1fe515-fb37-43e9-b790-ab2fda5b9477.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177070122-8ec4b9bb-fc24-4159-be78-1f54291f2828.png)
+- Start a build
+- ![image](https://user-images.githubusercontent.com/69948118/177070152-fb009ce1-74f2-4c27-8c45-efdf985cdd35.png)
 - 
 
 
