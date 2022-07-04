@@ -79,9 +79,38 @@ src: https://www.youtube.com/watch?v=1QLMqyFFEzU&list=PLVz2XdJiJQxwS0BZUHX34ocLT
 - ![image](https://user-images.githubusercontent.com/69948118/177070122-8ec4b9bb-fc24-4159-be78-1f54291f2828.png)
 - Start a build
 - ![image](https://user-images.githubusercontent.com/69948118/177070152-fb009ce1-74f2-4c27-8c45-efdf985cdd35.png)
+---
+### Build Docker image using Jenkins pipeline and puch to Docker hub
+- 
+- ![image](https://user-images.githubusercontent.com/69948118/177070643-1e649393-d950-41be-8bf0-761c420b5a69.png)
+-  Create Pipeline
+-  ![image](https://user-images.githubusercontent.com/69948118/177077113-63065d4c-6100-429d-beac-17630da22322.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177077151-05a637f8-ea35-446d-b2d4-e058e87cff06.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177077200-d1e54b9e-931d-45c6-948d-b0bd46b429d3.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177077281-27dba9a6-a4e8-4c35-9729-3290dc2945cb.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177077369-7cc74eac-c1d0-4237-9b9a-ebb1ee98c93f.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177077422-d1336a5f-0333-4904-a480-b8eb4758ea69.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177077765-52f73929-2d29-4705-878c-b17011f14138.png)
+- Docker file 
+- ![image](https://user-images.githubusercontent.com/69948118/177077940-3b83cb49-10f0-46b7-b675-a8bb45c07490.png)
+- Commit the docker file
+- 
+![image](https://user-images.githubusercontent.com/69948118/177078376-13adc9a3-08ba-425d-a0bd-2ad5aff058be.png)
+- We can create user and password environment variable 
+- ![image](https://user-images.githubusercontent.com/69948118/177078805-e890556a-69b4-42cc-b231-f026676ff195.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177080515-92e09569-833b-428e-8e66-dd9b20edb919.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177080557-e880a83d-0d8a-4b6f-ae6e-be3f1c80a9a8.png)
+- ![image](https://user-images.githubusercontent.com/69948118/177080699-b4a60a44-af8f-40ca-9d69-3b098c9c0601.png)
+
+- After Configuration build now
+- ![image](https://user-images.githubusercontent.com/69948118/177080894-deacc378-77f5-452c-ae28-099ba5f4bd86.png)
+
+- Another way we can commit ```Jenkinsfile``` in github
+- ![image](https://user-images.githubusercontent.com/69948118/177081251-7fbd08b5-21d0-4452-81fd-24db7d58c4a8.png)
 - 
 
-
+---
+### CI CD Pipeline Using Jenkins | Deploy Docker Image to Kubernetes using Jenkins
 
 
 
