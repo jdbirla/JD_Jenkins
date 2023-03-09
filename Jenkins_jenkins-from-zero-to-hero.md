@@ -61,5 +61,21 @@ docker exec -it my_container bash
 [jenkins@localhost jenkins-data]$ docker exec -ti jenkins bash
 ienkins@2006d27ffa83 : /$
 ```
+![image](https://user-images.githubusercontent.com/69948118/223969920-b701abb6-76a2-48eb-ae29-0b5fe0ca4181.png)
+![image](https://user-images.githubusercontent.com/69948118/223969954-9581e80b-27e0-44cc-8e68-7006b1a1f314.png)
+![image](https://user-images.githubusercontent.com/69948118/223970158-bae5e6d4-51a3-4df8-928f-8d9e7a539928.png)
+
+- Add paramaters for before building your job with paramater 
+- Add list parameters "choice parametrs"
+![image](https://user-images.githubusercontent.com/69948118/223975308-6dc35ca0-e7b8-4aa1-969e-2c1ca3c7982e.png)
+![image](https://user-images.githubusercontent.com/69948118/223975402-bf3a92c6-1787-4fff-b55a-aec61670981c.png)
+- Add basic logic and boolean parametrs
+![image](https://user-images.githubusercontent.com/69948118/223975981-30a5321d-bb48-4b56-8089-7b84d2302a5e.png)
+- copying file from host to container
+![image](https://user-images.githubusercontent.com/69948118/223977018-d3a4f01e-4343-40b1-acf2-0fd228aadb76.png)
+![image](https://user-images.githubusercontent.com/69948118/223977444-b0b7d4d7-eda3-443a-aada-fea631ae4638.png)
+
+## Jenkins & Docker
+
 
 
