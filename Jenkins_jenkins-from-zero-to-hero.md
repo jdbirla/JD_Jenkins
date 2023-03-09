@@ -2,6 +2,7 @@
 - https://dxc.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/19367702#overview
 - https://github.com/ricardoandre97/jenkins-resources
 
+## Install Jenkins
 - install virtual machine Oracle VM
 - instal centos in that
 - get the ip from VM 
@@ -51,5 +52,14 @@ docker-compose version
 ![image](https://user-images.githubusercontent.com/69948118/223962721-72336c61-f4dc-42c4-bba6-0dbe6588c5ea.png)
 ![image](https://user-images.githubusercontent.com/69948118/223962782-d61846df-3ac7-4264-8331-0a541f006a62.png)
 
+## Getting started with Jenkins
+- Go to inside jenkin container and sh it
+```
+docker exec -it <container_name_or_id> <shell>
+docker exec -it my_container bash
+
+[jenkins@localhost jenkins-data]$ docker exec -ti jenkins bash
+ienkins@2006d27ffa83 : /$
+```
 
 
