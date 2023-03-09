@@ -44,6 +44,12 @@ docker-compose version
 ![image](https://user-images.githubusercontent.com/69948118/223960200-9259383c-aa22-4a11-8cee-a2e5b04b8e0b.png)
 ![image](https://user-images.githubusercontent.com/69948118/223960235-cf1ff2b2-adef-4f1f-956f-1cbf6622f27c.png)
 ![image](https://user-images.githubusercontent.com/69948118/223960285-0edd3e42-43a7-46b9-9827-19e47809ad00.png)
+- install suggested plugins
+- create admin user
+- create local DNS 
+- C:\Windows\System32\drivers\etc
+![image](https://user-images.githubusercontent.com/69948118/223962721-72336c61-f4dc-42c4-bba6-0dbe6588c5ea.png)
+![image](https://user-images.githubusercontent.com/69948118/223962782-d61846df-3ac7-4264-8331-0a541f006a62.png)
 
 
 
