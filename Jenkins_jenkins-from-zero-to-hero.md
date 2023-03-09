@@ -80,5 +80,27 @@ ienkins@2006d27ffa83 : /$
 ![image](https://user-images.githubusercontent.com/69948118/223986781-18897dbd-ae65-48da-b039-76d9189e2a7c.png)
 
 ## Jenkins & AWS
+- upload mysql db backup into aws s3 using jenkins
+```sh
+#/bin/bash
+
+DATE=$(date +%H-%M-%S)
+BACKUP=db-$DATE.sql
+
+DB_HOST=$1
+DB_PASSWORD=$2
+DB_NAME=$3
+AWS_SECRET=$4
+BUCKET_NAME=$5
+
+mysqldump -u root -h $DB_HOST -p$DB_PASSWORD $DB_NAME > /tmp/$BACKUP && \
+export AWS_ACCESS_KEY_ID=AKIAJRWZWY3CPV3F3JPQ && \
+export AWS_SECRET_ACCESS_KEY=$AWS_SECRET && \
+echo "Uploading your $BACKUP backup" && \
+aws s3 cp /tmp/db-$DATE.sql s3://$BUCKET_NAME/$BACKUP
+```
+
+## Jenkins & Ansible
+
 
 
