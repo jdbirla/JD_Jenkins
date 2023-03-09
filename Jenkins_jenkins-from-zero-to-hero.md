@@ -76,6 +76,9 @@ ienkins@2006d27ffa83 : /$
 ![image](https://user-images.githubusercontent.com/69948118/223977444-b0b7d4d7-eda3-443a-aada-fea631ae4638.png)
 
 ## Jenkins & Docker
+- install plugin
+![image](https://user-images.githubusercontent.com/69948118/223986781-18897dbd-ae65-48da-b039-76d9189e2a7c.png)
 
+## Jenkins & AWS
 
 
