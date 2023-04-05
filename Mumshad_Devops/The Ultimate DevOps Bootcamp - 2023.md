@@ -69,3 +69,5 @@ thor@host01 ~/asia$ ^C
 ![image](https://user-images.githubusercontent.com/69948118/230020058-6e524372-5c12-4a31-a462-72dee791ac94.png)
 ![image](https://user-images.githubusercontent.com/69948118/230020308-dcb3b9e7-366c-4340-89c3-cedda920cf85.png)
 
+### Package Managers
+
