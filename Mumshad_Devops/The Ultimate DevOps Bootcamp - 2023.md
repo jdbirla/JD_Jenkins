@@ -56,3 +56,10 @@ rm: cannot remove ‘/home/thor/asia/india/bangalore/’: Is a directory
 thor@host01 ~/asia$ rm  -r /home/thor/asia/india/bangalore/
 thor@host01 ~/asia$ ^C
 ```
+
+### Vi Editor
+![image](https://user-images.githubusercontent.com/69948118/230018090-4aa5ede9-3e82-48f1-8ac7-989bb5ca78fe.png)
+![image](https://user-images.githubusercontent.com/69948118/230018312-5f7ae87a-44c8-4d24-b886-26363c1d20e0.png)
+![image](https://user-images.githubusercontent.com/69948118/230018483-c317ecd9-b2e0-435d-9065-68fd7c118261.png)
+![image](https://user-images.githubusercontent.com/69948118/230018652-6d9f35eb-794e-43c7-81a7-96ca86bce839.png)
+
