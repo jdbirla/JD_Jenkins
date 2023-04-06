@@ -245,6 +245,9 @@ thor@host01 /opt/maven/my-app$
 ![image](https://user-images.githubusercontent.com/69948118/230273380-f927fbe1-7599-49a4-b8ee-eb42e93b8aa4.png)
 ![image](https://user-images.githubusercontent.com/69948118/230273435-318e198a-23a4-43ef-bf4c-7c2bf92d2e49.png)
 
+## Python 
+![image](https://user-images.githubusercontent.com/69948118/230275150-bc73c4ae-8282-4070-9dc6-9e95fcc2a1ab.png)
+![image](https://user-images.githubusercontent.com/69948118/230275393-63cb8fa5-3a06-4a37-ba8c-1f728a07c3ac.png)
 
 
 
