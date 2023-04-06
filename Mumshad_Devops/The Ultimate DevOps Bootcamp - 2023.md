@@ -143,6 +143,12 @@ openjdk 13.0.2 2020-01-14
 OpenJDK Runtime Environment (build 13.0.2+8)
 OpenJDK 64-Bit Server VM (build 13.0.2+8, mixed mode, sharing)
 [thor@app01 opt]$ 
+[thor@app01 opt]$ export PATH=$PATH:/opt/jdk-13.0.2/bin/
+[thor@app01 opt]$ echo PATH
+PATH
+[thor@app01 opt]$ echo $PATH
+/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/thor/.local/bin:/home/thor/bin:/opt/jdk-13.0.2/bin/
+[thor@app01 opt]$ 
 ```
 
 
