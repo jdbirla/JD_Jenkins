@@ -208,7 +208,34 @@ thor@host01 /opt/app/doc$ curl index.html
 curl: (6) Could not resolve host: index.html; Unknown error
 thor@host01 /opt/app/doc$ cat index.html 
 ```
-
+- maven
+```sh
+thor@host01 /$ sudo yum install -y maven
+thor@host01 /$ cd /opt/maven/my-app/
+thor@host01 /opt/maven/my-app$ cd /opt/maven/my-app/; tree
+.
+├── pom.xml
+└── src
+    ├── main
+    │   └── java
+    │       └── com
+    │           └── mycompany
+    │               └── app
+    │                   └── App.java
+    └── test
+        └── java
+            └── com
+                └── mycompany
+                    └── app
+                        └── AppTest.java
+                        
+thor@host01 /opt/maven/my-app$ sudo mvn package
+thor@host01 /opt/maven/my-app$ ls
+pom.xml  src  target
+thor@host01 /opt/maven/my-app$ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
+Hello World!
+thor@host01 /opt/maven/my-app$ 
+```
 
 
 
