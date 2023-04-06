@@ -108,7 +108,7 @@ thor@host01 ~/asia$ ^C
 
 ## Applications Basics
 ![image](https://user-images.githubusercontent.com/69948118/230262563-95ef9a15-09cc-414c-a749-e81d96409a2d.png)
-```java
+```bash
 thor@host01 ~$ java -version
 openjdk version "1.8.0_242"
 OpenJDK Runtime Environment (build 1.8.0_242-b08)
@@ -154,7 +154,60 @@ PATH
 ![image](https://user-images.githubusercontent.com/69948118/230265180-18e33cde-3a50-4007-b55a-85da6bb20240.png)
 ![image](https://user-images.githubusercontent.com/69948118/230265549-a1455e53-621f-4a3e-9470-79856d1a4b7e.png)
 ![image](https://user-images.githubusercontent.com/69948118/230265579-4f0e54d3-9e81-4eb3-bcae-45c96ce2ea09.png)
+```bash
+thor@host01 /opt/app$ javac MyClass.java 
+thor@host01 /opt/app$ ls
+MyClass.class  MyClass.java
+thor@host01 /opt/app$ cat MyClass.class 
+9
 
+java/lang/Object<init>()V
+
+
+
+java/lang/SystemoutLjava/io/PrintStreamHello Kodekloud
+
+java/io/PrintStreamprintln(Ljava/lang/String;)VMyClassCodeLineNumberTablemain([Ljava/lang/String;)V
+SourceFile
+          MyClass.java!*        %
+thor@host01 /opt/app$ java MyClass
+Hello Kodekloud
+thor@host01 /opt/app$ javadoc -d MyClass.java 
+javadoc: error - No modules, packages or classes specified.
+1 error
+thor@host01 /opt/app$ javadoc -d doc MyClass.java 
+Loading source file MyClass.java...
+Constructing Javadoc information...
+Creating destination directory: "doc/"
+Standard Doclet version 13.0.2
+Building tree for all the packages and classes...
+Generating doc/MyClass.html...
+Generating doc/package-summary.html...
+Generating doc/package-tree.html...
+Generating doc/constant-values.html...
+Building index for all the packages and classes...
+Generating doc/overview-tree.html...
+Generating doc/deprecated-list.html...
+Generating doc/index-all.html...
+Building index for all classes...
+Generating doc/allclasses-index.html...
+Generating doc/allpackages-index.html...
+Generating doc/index.html...
+Generating doc/help-doc.html...
+thor@host01 /opt/app$ ls
+doc  MyClass.class  MyClass.java
+thor@host01 /opt/app$ cat doc/
+cat: doc/: Is a directory
+thor@host01 /opt/app$ cd doc/
+thor@host01 /opt/app/doc$ ls
+allclasses-index.html   element-list    member-search-index.js   package-search-index.js   resources   stylesheet.css
+allpackages-index.html  help-doc.html   member-search-index.zip  package-search-index.zip  script-dir  type-search-index.js
+constant-values.html    index-all.html  MyClass.html             package-summary.html      script.js   type-search-index.zip
+deprecated-list.html    index.html      overview-tree.html       package-tree.html         search.js
+thor@host01 /opt/app/doc$ curl index.html 
+curl: (6) Could not resolve host: index.html; Unknown error
+thor@host01 /opt/app/doc$ cat index.html 
+```
 
 
 
