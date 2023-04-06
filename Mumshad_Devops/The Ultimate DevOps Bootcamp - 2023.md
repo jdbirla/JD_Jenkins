@@ -108,6 +108,42 @@ thor@host01 ~/asia$ ^C
 
 ## Applications Basics
 ![image](https://user-images.githubusercontent.com/69948118/230262563-95ef9a15-09cc-414c-a749-e81d96409a2d.png)
+```java
+thor@host01 ~$ java -version
+openjdk version "1.8.0_242"
+OpenJDK Runtime Environment (build 1.8.0_242-b08)
+OpenJDK 64-Bit Server VM (build 25.242-b08, mixed mode)
+thor@host01 ~$ ssh app01
+The authenticity of host 'app01 (172.16.238.15)' can't be established.
+ECDSA key fingerprint is SHA256:vxz89t3mPukTYcEHxvQEkOHoDcD42tkQ5UyP4F+cquk.
+ECDSA key fingerprint is MD5:62:9c:a3:31:2b:a9:fd:85:69:1e:0a:28:1a:0f:62:6f.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'app01,172.16.238.15' (ECDSA) to the list of known hosts.
+[thor@app01 ~]$ sudo curl https://download.java.net/java/GA/jdk13.0.2/d4173c853231432d94f001e99d882ca7/8/GPL/openjdk-13.0.2_linux-x64_bin.tar.gz --output /opt/openjdk-13.0.2_linux-x64_bin.tar.gz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  186M  100  186M    0     0  81.8M      0  0:00:02  0:00:02 --:--:-- 81.8M
+[thor@app01 ~]$ ls
+[thor@app01 ~]$ pwd
+/home/thor
+[thor@app01 ~]$ ls
+[thor@app01 ~]$ /opt/
+-bash: /opt/: Is a directory
+[thor@app01 ~]$ ;s
+-bash: syntax error near unexpected token `;'
+[thor@app01 ~]$ cd /opt/
+[thor@app01 opt]$ 
+[thor@app01 opt]$ ls
+openjdk-13.0.2_linux-x64_bin.tar.gz
+[thor@app01 opt]$ sudo tar -xf openjdk-13.0.2_linux-x64_bin.tar.gz -C /opt/
+[thor@app01 opt]$ java --version
+-bash: java: command not found
+[thor@app01 opt]$ jdk-13.0.2/bin/java --version
+openjdk 13.0.2 2020-01-14
+OpenJDK Runtime Environment (build 13.0.2+8)
+OpenJDK 64-Bit Server VM (build 13.0.2+8, mixed mode, sharing)
+[thor@app01 opt]$ 
+```
 
 
 
