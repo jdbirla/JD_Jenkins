@@ -258,5 +258,11 @@ thor@host01 /opt/maven/my-app$
 ![image](https://user-images.githubusercontent.com/69948118/230292488-49770d1b-71bd-45c7-a3bd-9a5a3e5acee8.png)
 ![image](https://user-images.githubusercontent.com/69948118/230292724-b6d38f6b-42a5-41ea-aee1-5ab0a1fbfc61.png)
 ![image](https://user-images.githubusercontent.com/69948118/230292840-ed4ce4cf-b849-4ddc-8a77-93be398947b7.png)
+![image](https://user-images.githubusercontent.com/69948118/230303565-d469b09e-994a-4410-8d8f-5ce4723ceaec.png)
+
+## GIT Branches
+![image](https://user-images.githubusercontent.com/69948118/230306650-88f427ee-7d7d-4124-b054-02672f421c24.png)
+![image](https://user-images.githubusercontent.com/69948118/230306843-f78872ab-8143-483d-bd5b-00b651410403.png)
+![image](https://user-images.githubusercontent.com/69948118/230307312-7ab964ef-4712-47d8-9977-1fcb0d6c3632.png)
 
 
