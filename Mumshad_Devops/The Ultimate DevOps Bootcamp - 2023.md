@@ -267,4 +267,11 @@ thor@host01 /opt/maven/my-app$
 ![image](https://user-images.githubusercontent.com/69948118/230311536-07f7349e-eede-46ff-8609-f606dc49a112.png)
 ![image](https://user-images.githubusercontent.com/69948118/230311860-9ad87830-baa3-4d16-aaee-ca5b78722424.png)
 
+## Remote Repo
+![image](https://user-images.githubusercontent.com/69948118/230323005-6af45ed3-c864-463f-ba62-7f7097849168.png)
+![image](https://user-images.githubusercontent.com/69948118/230323044-2fcc5732-ccd2-4d1b-a53b-b1ed1fcc9dc2.png)
+![image](https://user-images.githubusercontent.com/69948118/230323181-d1502885-a0ca-4253-9375-a5331e77c1e3.png)
+![image](https://user-images.githubusercontent.com/69948118/230323307-3e0aa93a-378e-4214-b0d8-dab1c07b7791.png)
+![image](https://user-images.githubusercontent.com/69948118/230323512-3d7d0e2c-475c-4f5a-9ea2-2c96aa5e0db0.png)
+
 
