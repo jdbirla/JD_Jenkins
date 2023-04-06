@@ -284,6 +284,11 @@ thor@host01 /opt/maven/my-app$
 ![image](https://user-images.githubusercontent.com/69948118/230327795-1c36c2ec-d777-4537-af69-b09948d80878.png)
 
 ## Jenkins Introduction
+![image](https://user-images.githubusercontent.com/69948118/230336110-efdadd41-8d08-41af-8e1f-015a15c79f8d.png)
+![image](https://user-images.githubusercontent.com/69948118/230336734-2c3026fb-4e47-464e-874f-6aba2f8a3ea8.png)
+![image](https://user-images.githubusercontent.com/69948118/230336924-47014213-bc82-419f-b037-a26c3953a000.png)
+![image](https://user-images.githubusercontent.com/69948118/230337457-e86596d5-2956-452c-8760-c39dae91bd2f.png)
+![image](https://user-images.githubusercontent.com/69948118/230337759-dc368d9e-cea9-4484-bbfd-afc1417a8244.png)
 
 
 
