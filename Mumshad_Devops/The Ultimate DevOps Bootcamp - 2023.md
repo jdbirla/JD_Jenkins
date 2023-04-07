@@ -290,6 +290,10 @@ thor@host01 /opt/maven/my-app$
 ![image](https://user-images.githubusercontent.com/69948118/230337457-e86596d5-2956-452c-8760-c39dae91bd2f.png)
 ![image](https://user-images.githubusercontent.com/69948118/230337759-dc368d9e-cea9-4484-bbfd-afc1417a8244.png)
 
+```bash
+jdwinlinux@DESKTOP-AS2FQOH:~$ sudo apt install openjdk-11-jdk
+
+```
 
 
 
