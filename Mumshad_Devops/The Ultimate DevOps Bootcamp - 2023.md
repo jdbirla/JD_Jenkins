@@ -292,6 +292,156 @@ thor@host01 /opt/maven/my-app$
 
 ```bash
 jdwinlinux@DESKTOP-AS2FQOH:~$ sudo apt install openjdk-11-jdk
+root@jdvmlinuxusr:~# curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
+  /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+root@jdvmlinuxusr:~# echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+  https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+  /etc/apt/sources.list.d/jenkins.list > /dev/null
+root@jdvmlinuxusr:~# sudo apt-get update
+Ign:1 https://pkg.jenkins.io/debian-stable binary/ InRelease
+Get:2 https://pkg.jenkins.io/debian-stable binary/ Release [2,044 B]
+Get:3 https://pkg.jenkins.io/debian-stable binary/ Release.gpg [833 B]
+Hit:4 http://in.archive.ubuntu.com/ubuntu jammy InRelease
+Get:5 https://pkg.jenkins.io/debian-stable binary/ Packages [24.6 kB]
+Hit:6 http://in.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:7 http://in.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Hit:8 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Fetched 27.4 kB in 2s (12.5 kB/s)
+Reading package lists... Done
+root@jdvmlinuxusr:~# sudo apt-get install jenkins
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following NEW packages will be installed:
+  jenkins
+0 upgraded, 1 newly installed, 0 to remove and 3 not upgraded.
+Need to get 97.7 MB of archives.
+After this operation, 98.4 MB of additional disk space will be used.
+Get:1 https://pkg.jenkins.io/debian-stable binary/ jenkins 2.387.2 [97.7 MB]
+Fetched 97.7 MB in 30s (3,211 kB/s)
+Selecting previously unselected package jenkins.
+(Reading database ... 208726 files and directories currently installed.)
+Preparing to unpack .../jenkins_2.387.2_all.deb ...
+Unpacking jenkins (2.387.2) ...
+Setting up jenkins (2.387.2) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/jenkins.service → /lib/systemd/system/jenkins.service.
+root@jdvmlinuxusr:~# sudo apt-get install jenkins
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+jenkins is already the newest version (2.387.2).
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
+root@jdvmlinuxusr:~# sudo systemctl start jenkins
+root@jdvmlinuxusr:~# systemlctl status jenkins
+Command 'systemlctl' not found, did you mean:
+  command 'systemctl' from deb systemd (249.11-0ubuntu3.7)
+  command 'systemctl' from deb systemctl (1.4.4181-1.1)
+Try: apt install <deb name>
+root@jdvmlinuxusr:~# systemctl status jenkins
+● jenkins.service - Jenkins Continuous Integration Server
+     Loaded: loaded (/lib/systemd/system/jenkins.service; enabled; vendor preset: enabled)
+     Active: active (running) since Sat 2023-04-08 11:27:09 IST; 3min 47s ago
+   Main PID: 7110 (java)
+      Tasks: 42 (limit: 7210)
+     Memory: 1.7G
+        CPU: 1min 52.701s
+     CGroup: /system.slice/jenkins.service
+             └─7110 /usr/bin/java -Djava.awt.headless=true -jar /usr/share/java/jenkins.war --webroot=/var/cache/jenkins/war --httpPort=8080
+
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: 5ac5938db28c40e4bac40ca2c08cbc38
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: This may also be found at: /var/lib/jenkins/secrets/initialAdminPassword
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: *************************************************************
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: *************************************************************
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: *************************************************************
+Apr 08 11:27:08 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:08.389+0000 [id=29]        INFO        jenkins.InitReactorRunner$1#onAttained: Completed initialization
+Apr 08 11:27:09 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:09.227+0000 [id=22]        INFO        hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+Apr 08 11:27:09 jdvmlinuxusr systemd[1]: Started Jenkins Continuous Integration Server.
+Apr 08 11:27:10 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:10.928+0000 [id=46]        INFO        h.m.DownloadService$Downloadable#load: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+Apr 08 11:27:10 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:10.930+0000 [id=46]        INFO        hudson.util.Retrier#start: Performed the action check updates server successfully at the attempt #1
+root@jdvmlinuxusr:~# sudo ufw allow 8080
+Rules updated
+Rules updated (v6)
+root@jdvmlinuxusr:~# sudo ufw status
+Status: inactive
+root@jdvmlinuxusr:~#  exit
+logout
+jdvmlinuxusr@jdvmlinuxusr:~$ systemctl status jenkins
+● jenkins.service - Jenkins Continuous Integration Server
+     Loaded: loaded (/lib/systemd/system/jenkins.service; enabled; vendor preset: enabled)
+     Active: active (running) since Sat 2023-04-08 11:27:09 IST; 8min ago
+   Main PID: 7110 (java)
+      Tasks: 42 (limit: 7210)
+     Memory: 1.7G
+        CPU: 1min 54.691s
+     CGroup: /system.slice/jenkins.service
+             └─7110 /usr/bin/java -Djava.awt.headless=true -jar /usr/share/java/jenkins.war --webroot=/var/cache/jenkins/war --httpPort=8080
+
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: 5ac5938db28c40e4bac40ca2c08cbc38
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: This may also be found at: /var/lib/jenkins/secrets/initialAdminPassword
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: *************************************************************
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: *************************************************************
+Apr 08 11:26:13 jdvmlinuxusr jenkins[7110]: *************************************************************
+Apr 08 11:27:08 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:08.389+0000 [id=29]        INFO        jenkins.InitReactorRunner$1#onAttained: Completed initialization
+Apr 08 11:27:09 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:09.227+0000 [id=22]        INFO        hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+Apr 08 11:27:09 jdvmlinuxusr systemd[1]: Started Jenkins Continuous Integration Server.
+Apr 08 11:27:10 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:10.928+0000 [id=46]        INFO        h.m.DownloadService$Downloadable#load: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+Apr 08 11:27:10 jdvmlinuxusr jenkins[7110]: 2023-04-08 05:57:10.930+0000 [id=46]        INFO        hudson.util.Retrier#start: Performed the action check updates server successfully at the attempt #1
+jdvmlinuxusr@jdvmlinuxusr:~$ sudo cat /var/lib/jenkins/secrets/
+[sudo] password for jdvmlinuxusr:
+Sorry, try again.
+[sudo] password for jdvmlinuxusr:
+cat: /var/lib/jenkins/secrets/: Is a directory
+jdvmlinuxusr@jdvmlinuxusr:~$ cd /var/
+jdvmlinuxusr@jdvmlinuxusr:/var$ pwd
+/var
+jdvmlinuxusr@jdvmlinuxusr:/var$ ls
+backups  cache  crash  lib  local  lock  log  mail  metrics  opt  run  snap  spool  tmp
+jdvmlinuxusr@jdvmlinuxusr:/var$ cd lib/
+jdvmlinuxusr@jdvmlinuxusr:/var/lib$ ls
+AccountsService  aspell         command-not-found    emacsen-common  hp           man-db          pam                    saned         sudo              ubuntu-drivers-common    update-notifier  xfonts
+acpi-support     avahi-autoipd  dbus                 fprint          ispell       misc            plymouth               sgml-base     swcatalog         ubuntu-release-upgrader  upower           xkb
+alsa             bluetooth      dhcp                 gdm3            jenkins      NetworkManager  polkit-1               shells.state  systemd           ucf                      usb_modeswitch   xml-core
+app-info         boltd          dictionaries-common  geoclue         libreoffice  openvpn         power-profiles-daemon  shim-signed   tpm               udisks2                  usbutils
+apport           BrlAPI         dkms                 ghostscript     locales      os-prober       private                snapd         ubiquity          unattended-upgrades      vim
+apt              colord         dpkg                 grub            logrotate    PackageKit      python                 snmp          ubuntu-advantage  update-manager           whoopsie
+jdvmlinuxusr@jdvmlinuxusr:/var/lib$ cd jenkins/
+jdvmlinuxusr@jdvmlinuxusr:/var/lib/jenkins$ ls
+config.xml  hudson.model.UpdateCenter.xml  jenkins.telemetry.Correlator.xml  jobs  nodeMonitors.xml  nodes  plugins  secret.key  secret.key.not-so-secret  secrets  updates  userContent  users
+jdvmlinuxusr@jdvmlinuxusr:/var/lib/jenkins$ cd secrets/
+-bash: cd: secrets/: Permission denied
+jdvmlinuxusr@jdvmlinuxusr:/var/lib/jenkins$ ls
+config.xml  hudson.model.UpdateCenter.xml  jenkins.telemetry.Correlator.xml  jobs  nodeMonitors.xml  nodes  plugins  secret.key  secret.key.not-so-secret  secrets  updates  userContent  users
+jdvmlinuxusr@jdvmlinuxusr:/var/lib/jenkins$ sudo cd secrets/
+sudo: cd: command not found
+sudo: "cd" is a shell built-in command, it cannot be run directly.
+sudo: the -s option may be used to run a privileged shell.
+sudo: the -D option may be used to run a command in a specific directory.
+jdvmlinuxusr@jdvmlinuxusr:/var/lib/jenkins$ cd secrets/
+-bash: cd: secrets/: Permission denied
+jdvmlinuxusr@jdvmlinuxusr:/var/lib/jenkins$ sudo -i
+root@jdvmlinuxusr:~# pws
+Command 'pws' not found, did you mean:
+  command 'aws' from snap aws-cli (1.15.58)
+  command 'psw' from deb wise (2.4.1-23)
+  command 'pts' from deb openafs-client (1.8.8.1-3ubuntu2~22.04.1)
+  command 'pvs' from deb lvm2 (2.03.11-2.1ubuntu4)
+  command 'ps' from deb procps (2:3.3.17-6ubuntu2)
+  command 'aws' from deb awscli (1.22.34-1)
+  command 'pcs' from deb pcs (0.10.11-2ubuntu3)
+  command 'pms' from deb pms (0.42-1build4)
+  command 'pwd' from deb coreutils (8.32-4.1ubuntu1)
+  command 'pps' from deb libpmix-bin (4.1.2-2ubuntu1)
+  command 'rpws' from deb ratpoison (1.4.9-1)
+See 'snap info <snapname>' for additional versions.
+root@jdvmlinuxusr:~# pwd
+/root
+root@jdvmlinuxusr:~# cd /var/lib/jenkins/secrets/
+root@jdvmlinuxusr:/var/lib/jenkins/secrets# ls
+initialAdminPassword  jenkins.model.Jenkins.crumbSalt  master.key
+root@jdvmlinuxusr:/var/lib/jenkins/secrets# cat initialAdminPassword
+5ac5938db28c40e4bac40ca2c08cbc38
+root@jdvmlinuxusr:/var/lib/jenkins/secrets# ^C
+root@jdvmlinuxusr:/var/lib/jenkins/secrets#
 
 ```
 
