@@ -464,8 +464,28 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 
 `sudo systemctl restart jenkins`
 
+## Jekin Admin
+![image](https://user-images.githubusercontent.com/69948118/230714200-358c7fc7-2996-43e1-8b8d-26c72c1d3187.png)
+![image](https://user-images.githubusercontent.com/69948118/230714246-5b0c00b9-b487-40e6-b15c-1bf4115361f4.png)
+![image](https://user-images.githubusercontent.com/69948118/230714306-012a142b-3ecf-4c02-a9bc-2ad12b17f134.png)
 
+```
 
+jdvmlinuxusr@jdvmlinuxusr:~$ pwd
+/home/jdvmlinuxusr
+jdvmlinuxusr@jdvmlinuxusr:~$ mkdir jenkinsbakcup
+jdvmlinuxusr@jdvmlinuxusr:~$ cd jenkinsbakcup/
+jdvmlinuxusr@jdvmlinuxusr:~/jenkinsbakcup$ pwd
+/home/jdvmlinuxusr/jenkinsbakcup
+jdvmlinuxusr@jdvmlinuxusr:~/jenkinsbakcup$ chmod 777 jenkinsbakcup
+chmod: cannot access 'jenkinsbakcup': No such file or directory
+jdvmlinuxusr@jdvmlinuxusr:~/jenkinsbakcup$ cd ..
+jdvmlinuxusr@jdvmlinuxusr:~$ chmod 777 jenkinsbakcup/
+jdvmlinuxusr@jdvmlinuxusr:~$
+
+```
+
+## Piplines
 
 
 
