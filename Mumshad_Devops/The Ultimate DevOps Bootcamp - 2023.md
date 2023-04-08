@@ -444,6 +444,19 @@ root@jdvmlinuxusr:/var/lib/jenkins/secrets# ^C
 root@jdvmlinuxusr:/var/lib/jenkins/secrets#
 
 ```
+### Jenkins Admin User Details
+- usr/pass : jdjenkinusr
+```bash
+jdvmlinuxusr@jdvmlinuxusr:~$ wget http://192.168.1.10:8080/jnlpJars/jenkins-cli.jar
+jdvmlinuxusr@jdvmlinuxusr:~$ java -jar jenkins-cli.jar -s http://192.168.1.10:8080/ -auth jdjenkinusr:112aec9977e3ac1eeba8d81352af40abcf
 
 
+jdvmlinuxusr@jdvmlinuxusr:~$ java -jar jenkins-cli.jar -s http://192.168.1.10:8080/ -auth jdjenkinusr:112aec9977e3ac1eeba8d81352af40abcf -webSocket list-jobs
+jdvmlinuxusr@jdvmlinuxusr:~$ java -jar jenkins-cli.jar -s http://192.168.1.10:8080/ -auth jdjenkinusr:112aec9977e3ac1eeba8d81352af40abcf -webSocket list-jobs
+test2
+jdvmlinuxusr@jdvmlinuxusr:~$ java -jar jenkins-cli.jar -s http://192.168.1.10:8080/ -auth jdjenkinusr:112aec9977e3ac1eeba8d81352af40abcf -webSocket build test2
+jdvmlinuxusr@jdvmlinuxusr:~$
+
+
+````
 
