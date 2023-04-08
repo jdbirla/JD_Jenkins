@@ -459,4 +459,21 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 
 
 ````
+### Plugins
+![image](https://user-images.githubusercontent.com/69948118/230713957-ad438c44-dad7-4c8f-b12f-28d5051dcf01.png)
+
+`sudo systemctl restart jenkins`
+
+
+
+
+
+
+
+
+
+
+
+
+
 
