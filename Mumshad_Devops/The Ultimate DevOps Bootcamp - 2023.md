@@ -486,6 +486,11 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 ```
 
 ## Piplines
+![image](https://user-images.githubusercontent.com/69948118/230715837-7cf48fdd-a977-4887-8f33-0c84fead85c3.png)
+![image](https://user-images.githubusercontent.com/69948118/230715939-5a36d162-88b3-4193-a8d6-49b35f76e44c.png)
+![image](https://user-images.githubusercontent.com/69948118/230715955-05d5929c-bf27-4cb1-bc03-fbb7a583651d.png)
+![image](https://user-images.githubusercontent.com/69948118/230716230-0779c363-ccb1-4273-949d-462e1dd4235d.png)
+![image](https://user-images.githubusercontent.com/69948118/230716179-d879fd85-2fa1-4dea-bc46-4be4822c94eb.png)
 
 
 
