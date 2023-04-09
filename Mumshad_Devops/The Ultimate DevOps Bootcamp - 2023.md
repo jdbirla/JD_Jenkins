@@ -557,10 +557,9 @@ $ docker run -p 38282:8080 --name blue-app -e APP_COLOR=blue -d kodekloud/simple
 ![image](https://user-images.githubusercontent.com/69948118/230760155-38462d8b-4651-49ab-ae74-cf23b0b128fb.png)
 - In case of Entrypoint command will be appended which we pass during docker run 
 ![image](https://user-images.githubusercontent.com/69948118/230760189-d3fd3aec-7f84-4005-bee6-59bf4f749e45.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/69948118/230760308-58ced740-58df-4ef1-a52c-4330b559077c.png)
 
  
-
 
 
 
