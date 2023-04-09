@@ -615,7 +615,12 @@ docker run --network=wp-mysql-network -e DB_Host=mysql-db -e DB_Password=db_pass
 ![image](https://user-images.githubusercontent.com/69948118/230765640-55453682-8f7e-4197-920e-ffa6079d349b.png)
 ![image](https://user-images.githubusercontent.com/69948118/230765709-c257b52d-1dfb-4c32-a978-2615ad6bf257.png)
 ![image](https://user-images.githubusercontent.com/69948118/230765749-7ef2cc8b-97db-4b2c-bfe3-61caee239a2c.png)
-
+### Install kubectl binary with curl on Linux 
+```bash
+curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+chmod +x kubectl
+mv ./kubectl user/local/bin/kubectl
+```
 
 
 
