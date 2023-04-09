@@ -621,6 +621,11 @@ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stabl
 chmod +x kubectl
 mv ./kubectl user/local/bin/kubectl
 ```
+```bash
+
+
+
+```
 
 
 
