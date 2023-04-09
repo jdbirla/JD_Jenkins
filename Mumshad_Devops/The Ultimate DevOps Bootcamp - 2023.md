@@ -508,7 +508,18 @@ jdvmlinuxusr@jdvmlinuxusr:~$
  sudo sh get-docker.sh
  
  ```
- 
+ ## Docker commands
+![image](https://user-images.githubusercontent.com/69948118/230750261-ec5643eb-95b5-4434-aeb2-b2c5ca3e76ed.png)
+![image](https://user-images.githubusercontent.com/69948118/230750270-dfb8010a-3b7e-4424-8331-a94ff961534f.png)
+![image](https://user-images.githubusercontent.com/69948118/230750287-46afa1ff-3b72-4c46-b737-9ff16bafd454.png)
+![image](https://user-images.githubusercontent.com/69948118/230750306-36e3c041-9bf9-44b5-88db-2cff899a56fc.png)
+![image](https://user-images.githubusercontent.com/69948118/230750321-a8098096-9faf-4292-a0a5-c6617a5b4d8b.png)
+![image](https://user-images.githubusercontent.com/69948118/230750339-80b5d339-0fc2-4b03-9a4d-1b13e864aeba.png)
+![image](https://user-images.githubusercontent.com/69948118/230750345-14f3c267-f780-4a57-8e40-a8973fcb1bd9.png)
+![image](https://user-images.githubusercontent.com/69948118/230750356-ae692d06-06dd-426b-8801-9f127d95aeb4.png)
+![image](https://user-images.githubusercontent.com/69948118/230750427-58c42ca3-1c4d-4a99-902b-78e4d3a90d92.png)
+![image](https://user-images.githubusercontent.com/69948118/230750472-7f79a639-ba74-4f8d-8dc2-b7aaa3954760.png)
+
  
 
 
