@@ -527,7 +527,9 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 ![image](https://user-images.githubusercontent.com/69948118/230753277-10b5b05a-21fe-4f5a-8444-46871df08b02.png)
 ![image](https://user-images.githubusercontent.com/69948118/230753291-05aab625-4803-4dd1-9b2f-15f79578cf51.png)
 ![image](https://user-images.githubusercontent.com/69948118/230753307-2790b735-6e68-4631-8943-4cc4c4b064c1.png)
-
+![image](https://user-images.githubusercontent.com/69948118/230753492-58a9d11d-7593-4891-9bfa-c20f6d6669a1.png)
+![image](https://user-images.githubusercontent.com/69948118/230753592-6a3d452d-5fa6-4218-8820-b2658bc986f6.png)
+![image](https://user-images.githubusercontent.com/69948118/230753650-cd638216-648a-443a-9e25-69600e20bddf.png)
 
  
 
