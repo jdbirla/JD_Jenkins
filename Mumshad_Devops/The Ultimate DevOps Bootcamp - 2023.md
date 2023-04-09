@@ -502,6 +502,14 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 ![image](https://user-images.githubusercontent.com/69948118/230749831-7e9bb38f-757f-4cdd-b00a-49c3460c26c1.png)
 ![image](https://user-images.githubusercontent.com/69948118/230749859-b4701939-9088-43b2-9654-ab1f1c48f1a6.png)
 
+## Docker install
+```
+ curl -fsSL https://get.docker.com -o get-docker.sh
+ sudo sh get-docker.sh
+ 
+ ```
+ 
+ 
 
 
 
