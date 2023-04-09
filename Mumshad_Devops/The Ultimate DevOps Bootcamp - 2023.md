@@ -540,6 +540,11 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 ![image](https://user-images.githubusercontent.com/69948118/230754404-e8e2e772-7b01-40ac-817d-280fa0b6fc86.png)
 ![image](https://user-images.githubusercontent.com/69948118/230754427-72167b8d-4d38-46d3-bb3a-aaf5e11114ff.png)
 
+## Environment Varilables
+![image](https://user-images.githubusercontent.com/69948118/230759550-0385c4dc-8223-4b89-bd60-aa8361cb0afe.png)
+![image](https://user-images.githubusercontent.com/69948118/230759565-9f6f5a21-cb04-4c33-ad3e-9eae5c0a08cf.png)
+![image](https://user-images.githubusercontent.com/69948118/230759573-56b3097b-8d79-4ef3-9a61-d62fa37ca7a2.png)
+![image](https://user-images.githubusercontent.com/69948118/230759588-4ccfabab-cc80-44ec-92b6-7c4956f5bbfc.png)
 
  
 
