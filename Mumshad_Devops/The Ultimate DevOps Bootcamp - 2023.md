@@ -578,7 +578,19 @@ $ docker run -p 38282:8080 --name blue-app -e APP_COLOR=blue -d kodekloud/simple
 ![image](https://user-images.githubusercontent.com/69948118/230761772-6fb747bf-7175-4731-99bd-a36d26c0a4cf.png)
 ![image](https://user-images.githubusercontent.com/69948118/230761789-078914c4-190b-4a4f-b07e-36a69944b891.png)
 ![image](https://user-images.githubusercontent.com/69948118/230761833-a96f4888-eb1c-430b-ae57-323ec63ed8ad.png)
+```
+Deploy a web application named webapp using the kodekloud/simple-webapp-mysql image. Expose the port to 38080 on the host.
 
+The application makes use of two environment variable:
+1: DB_Host with the value mysql-db.
+2: DB_Password with the value db_pass123.
+Make sure to attach it to the newly created network called wp-mysql-network.
+
+Also make sure to link the MySQL and the webapp container.
+```
+```
+docker run --network=wp-mysql-network -e DB_Host=mysql-db -e DB_Password=db_pass123 -p 38080:8080 --name webapp --link mysql-db:mysql-db -d kodekloud/simple-webapp-mysql
+```
 
 
 
