@@ -598,6 +598,42 @@ docker run --network=wp-mysql-network -e DB_Host=mysql-db -e DB_Password=db_pass
 ![image](https://user-images.githubusercontent.com/69948118/230762417-bc98bcb5-c108-44f5-b2f0-01234401ea19.png)
 
 
+## Kubernetes Overview
+![image](https://user-images.githubusercontent.com/69948118/230764405-4def7ef8-982b-423d-bcf9-3faa6a916841.png)
+![image](https://user-images.githubusercontent.com/69948118/230764517-a97932a6-62ff-4c78-afb5-c232be55b12d.png)
+![image](https://user-images.githubusercontent.com/69948118/230764532-3800c4dc-c045-42cc-b416-9d0a71f34f05.png)
+![image](https://user-images.githubusercontent.com/69948118/230764613-3ef09197-c06f-41f5-82b4-43b2134f574c.png)
+![image](https://user-images.githubusercontent.com/69948118/230764669-5e11ddb8-8183-4d40-abe0-1d8088a5b414.png)
+![image](https://user-images.githubusercontent.com/69948118/230764705-54c6cc16-8be1-45a4-933f-9978d515f3b5.png)
+![image](https://user-images.githubusercontent.com/69948118/230764719-015498b6-15c0-4d58-9822-2e8f13beb061.png)
+![image](https://user-images.githubusercontent.com/69948118/230764739-0f58ada1-dcfb-49e3-baf8-059a96463bd1.png)
+![image](https://user-images.githubusercontent.com/69948118/230764816-b8b02cfb-fc0a-44cb-baa7-1838bcc71796.png)
+![image](https://user-images.githubusercontent.com/69948118/230764877-35948064-bf4c-4701-a21d-6b06fc055512.png)
+![image](https://user-images.githubusercontent.com/69948118/230765574-8bdfc620-31ad-4775-bf43-79d838732647.png)
+
+## Setup Kubernetes
+![image](https://user-images.githubusercontent.com/69948118/230765640-55453682-8f7e-4197-920e-ffa6079d349b.png)
+![image](https://user-images.githubusercontent.com/69948118/230765709-c257b52d-1dfb-4c32-a978-2615ad6bf257.png)
+![image](https://user-images.githubusercontent.com/69948118/230765749-7ef2cc8b-97db-4b2c-bfe3-61caee239a2c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
