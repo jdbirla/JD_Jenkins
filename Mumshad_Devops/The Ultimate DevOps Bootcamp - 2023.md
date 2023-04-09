@@ -520,6 +520,15 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 ![image](https://user-images.githubusercontent.com/69948118/230750427-58c42ca3-1c4d-4a99-902b-78e4d3a90d92.png)
 ![image](https://user-images.githubusercontent.com/69948118/230750472-7f79a639-ba74-4f8d-8dc2-b7aaa3954760.png)
 
+## Docker Run
+![image](https://user-images.githubusercontent.com/69948118/230753033-6e1d1367-7454-42a2-93db-1a855e7292c3.png)
+![image](https://user-images.githubusercontent.com/69948118/230753099-03f17537-d90f-4b6a-a0dc-f449fae8c0f9.png)
+![image](https://user-images.githubusercontent.com/69948118/230753216-7dd40307-e39c-47da-bbd7-fdd87a636271.png)
+![image](https://user-images.githubusercontent.com/69948118/230753277-10b5b05a-21fe-4f5a-8444-46871df08b02.png)
+![image](https://user-images.githubusercontent.com/69948118/230753291-05aab625-4803-4dd1-9b2f-15f79578cf51.png)
+![image](https://user-images.githubusercontent.com/69948118/230753307-2790b735-6e68-4631-8943-4cc4c4b064c1.png)
+
+
  
 
 
