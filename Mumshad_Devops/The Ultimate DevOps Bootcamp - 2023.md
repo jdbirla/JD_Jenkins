@@ -545,6 +545,19 @@ jdvmlinuxusr@jdvmlinuxusr:~$
 ![image](https://user-images.githubusercontent.com/69948118/230759565-9f6f5a21-cb04-4c33-ad3e-9eae5c0a08cf.png)
 ![image](https://user-images.githubusercontent.com/69948118/230759573-56b3097b-8d79-4ef3-9a61-d62fa37ca7a2.png)
 ![image](https://user-images.githubusercontent.com/69948118/230759588-4ccfabab-cc80-44ec-92b6-7c4956f5bbfc.png)
+```
+$ docker run -p 38282:8080 --name blue-app -e APP_COLOR=blue -d kodekloud/simple-webapp
+282d668b854138948001a056a133760e8cb3d6a1c557b971d0d18d2ff72f9ffa
+```
+## Commands vs Entypoint
+![image](https://user-images.githubusercontent.com/69948118/230760077-7e98019c-02dc-4539-ba62-818581a45a87.png)
+![image](https://user-images.githubusercontent.com/69948118/230760090-fdcf420b-6435-429c-bae5-41b673f04d51.png)
+- CMD from image will be override if we will provide the CMD during docker run 
+![image](https://user-images.githubusercontent.com/69948118/230760123-295afb97-d5ed-4ce0-9b25-77aa15683ec1.png)
+![image](https://user-images.githubusercontent.com/69948118/230760155-38462d8b-4651-49ab-ae74-cf23b0b128fb.png)
+- In case of Entrypoint command will be appended which we pass during docker run 
+![image](https://user-images.githubusercontent.com/69948118/230760189-d3fd3aec-7f84-4005-bee6-59bf4f749e45.png)
+![Uploading image.png…]()
 
  
 
