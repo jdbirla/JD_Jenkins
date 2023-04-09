@@ -592,6 +592,12 @@ Also make sure to link the MySQL and the webapp container.
 docker run --network=wp-mysql-network -e DB_Host=mysql-db -e DB_Password=db_pass123 -p 38080:8080 --name webapp --link mysql-db:mysql-db -d kodekloud/simple-webapp-mysql
 ```
 
+## Docker Registry
+![image](https://user-images.githubusercontent.com/69948118/230762306-51c171d8-f2d4-4b45-8624-1d0ea632475a.png)
+![image](https://user-images.githubusercontent.com/69948118/230762353-c3508b28-7de9-4d24-a7e8-b96c4941799d.png)
+![image](https://user-images.githubusercontent.com/69948118/230762417-bc98bcb5-c108-44f5-b2f0-01234401ea19.png)
+
+
 
 
 
