@@ -664,7 +664,10 @@ https://minikube.sigs.k8s.io/docs/handbook/accessing/#using-minikube-service-wit
 ![image](https://user-images.githubusercontent.com/69948118/230809456-6eae20e7-4e17-4569-9901-52e76bbe803b.png)
 ![image](https://user-images.githubusercontent.com/69948118/230809575-8f8870f8-6809-4109-9f45-c543873c495b.png)
 
-
+## Pods, Replicaset, Deployments
+![image](https://user-images.githubusercontent.com/69948118/230811304-ad40e68c-cacb-4d74-9779-11ced3983f93.png)
+![image](https://user-images.githubusercontent.com/69948118/230811338-50778d35-6ee0-4d1a-8159-4c6f86530014.png)
+![image](https://user-images.githubusercontent.com/69948118/230811388-e164946d-8c35-47c8-9e01-9e2fa6d512f2.png)
 
 
 
