@@ -676,7 +676,28 @@ https://minikube.sigs.k8s.io/docs/handbook/accessing/#using-minikube-service-wit
 - VS code setting
 ![image](https://user-images.githubusercontent.com/69948118/230812880-91928b4e-ae18-4f92-afb7-0a8ee1629d3d.png)
 
+```
+controlplane ~ ➜  kubectl run nginx --image=nginx
+pod/nginx created
 
+controlplane ~ ➜  kubectl get pods
+NAME    READY   STATUS              RESTARTS   AGE
+nginx   0/1     ContainerCreating   0          9s
+
+controlplane ~ ➜  kubectl describe pod newpods-jjbmc
+controlplane ~ ➜  kubectl delete pod webapp 
+controlplane ~ ➜  kubectl run redis --image=redis123 --dry-run=client -o yaml > redis-definition.yaml
+controlplane ~ ➜  kubectl create -f redis-definition.yaml 
+```
+## Controller
+![image](https://user-images.githubusercontent.com/69948118/230827376-e1f87aa8-104d-4e92-aed6-2813eb3a8a7f.png)
+![image](https://user-images.githubusercontent.com/69948118/230827479-7854f5da-857b-4dcf-b7e6-195e1ba669a0.png)
+- Replication controller vs ReplicaSet
+![image](https://user-images.githubusercontent.com/69948118/230827980-23e3d03b-7b1f-4466-9f2c-bc8f1472bd93.png)
+![image](https://user-images.githubusercontent.com/69948118/230828368-5956d533-5bf0-4ab4-88cf-62d4d20d23f3.png)
+![image](https://user-images.githubusercontent.com/69948118/230828511-08a59942-9e6f-411f-991a-fe47cbafc433.png)
+![image](https://user-images.githubusercontent.com/69948118/230828793-5f07d2cb-e0cd-41e4-b85a-5ec00d33f019.png)
+![image](https://user-images.githubusercontent.com/69948118/230828878-9ad85176-9e3d-4599-b5ae-a581f7ba6433.png)
 
 
 
