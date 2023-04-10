@@ -662,6 +662,7 @@ https://minikube.sigs.k8s.io/docs/handbook/accessing/#using-minikube-service-wit
 ![image](https://user-images.githubusercontent.com/69948118/230809348-b7490867-677d-4b0f-87b9-14e988d28746.png)
 ![image](https://user-images.githubusercontent.com/69948118/230809394-1b57947e-016b-4eab-ac2f-93bca9dfe383.png)
 ![image](https://user-images.githubusercontent.com/69948118/230809456-6eae20e7-4e17-4569-9901-52e76bbe803b.png)
+![image](https://user-images.githubusercontent.com/69948118/230809575-8f8870f8-6809-4109-9f45-c543873c495b.png)
 
 
 
