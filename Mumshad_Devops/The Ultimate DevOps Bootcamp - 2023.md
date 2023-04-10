@@ -621,11 +621,50 @@ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stabl
 chmod +x kubectl
 mv ./kubectl user/local/bin/kubectl
 ```
-```bash
-
-
-
 ```
+Install and set up the kubectl tool: –
+
+https://kubernetes.io/docs/tasks/tools/
+
+Install Minikube: –
+
+https://minikube.sigs.k8s.io/docs/start/
+
+Install VirtualBox: –
+
+https://www.virtualbox.org/wiki/Downloads
+
+https://www.virtualbox.org/wiki/Linux_Downloads
+
+Minikube Tutorial: –
+
+https://kubernetes.io/docs/tutorials/hello-minikube/
+
+If the minikube installation has been done on the macOS, then to access the URL on the local browser, we need to do a few steps to get the service URL to work. Those steps are covered on this documentation page: –
+
+https://minikube.sigs.k8s.io/docs/handbook/accessing/#using-minikube-service-with-tunnel
+```
+
+## Kubernetes COncept
+### PODS
+![image](https://user-images.githubusercontent.com/69948118/230807554-81ff93c1-ffa6-4855-ac23-22a9260ce93d.png)
+![image](https://user-images.githubusercontent.com/69948118/230807622-c124f9d9-da75-43a7-a52e-d56f776069d6.png)
+![image](https://user-images.githubusercontent.com/69948118/230807734-14eec78d-cadf-4ea2-9ae1-9c93b74c0b69.png)
+![image](https://user-images.githubusercontent.com/69948118/230807777-1072e840-41b6-49ae-8b01-0f496e36d916.png)
+![image](https://user-images.githubusercontent.com/69948118/230807951-7c3123df-5fb3-48ef-b37e-d9478370ce21.png)
+![image](https://user-images.githubusercontent.com/69948118/230808160-f721a687-92c7-4b4c-99b7-e7fa7bf32040.png)
+![image](https://user-images.githubusercontent.com/69948118/230808206-be26ce98-e7f9-4015-972a-b87bf52f910d.png)
+![image](https://user-images.githubusercontent.com/69948118/230808379-42d7719f-64bd-48d1-89ac-afbb20c6c693.png)
+
+### YAML
+![image](https://user-images.githubusercontent.com/69948118/230809100-8ad4b44f-e668-4d84-8c3b-55ed6386438d.png)
+![image](https://user-images.githubusercontent.com/69948118/230809201-3106cd89-7807-4ca9-9071-9fa212e29b38.png)
+![image](https://user-images.githubusercontent.com/69948118/230809348-b7490867-677d-4b0f-87b9-14e988d28746.png)
+![image](https://user-images.githubusercontent.com/69948118/230809394-1b57947e-016b-4eab-ac2f-93bca9dfe383.png)
+![image](https://user-images.githubusercontent.com/69948118/230809456-6eae20e7-4e17-4569-9901-52e76bbe803b.png)
+
+
+
 
 
 
