@@ -833,8 +833,31 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231134682-2f7101af-0130-4bc1-95d9-1fb9f5d486df.png)
 
 ## Terraform
+![image](https://user-images.githubusercontent.com/69948118/231138767-291eb8c3-d36b-4e42-91cb-b8f3bfe9c94e.png)
+![image](https://user-images.githubusercontent.com/69948118/231138911-da03608d-30a0-4868-94ef-90cc3463e542.png)
+![image](https://user-images.githubusercontent.com/69948118/231139303-a06c65a2-8498-4373-92e5-f49774177289.png)
+![image](https://user-images.githubusercontent.com/69948118/231139407-b4724917-3f0b-4a56-8f99-7bbe726a596a.png)
+![image](https://user-images.githubusercontent.com/69948118/231139485-f5ca4045-1eeb-42ff-b27f-1ea0c0037c03.png)
+## Introduction to Infrastructure as Code
+![image](https://user-images.githubusercontent.com/69948118/231140584-7154d40a-dca7-448e-b9e9-f34225e355a0.png)
+![image](https://user-images.githubusercontent.com/69948118/231141204-0eea380b-a710-4b81-bd9d-9c69888f23f8.png)
+![image](https://user-images.githubusercontent.com/69948118/231141339-a78e17a5-b35f-4f85-a303-0a3601e81119.png)
+![image](https://user-images.githubusercontent.com/69948118/231141626-15ace00c-fa27-4988-94d3-f85ef3cb490f.png)
+![image](https://user-images.githubusercontent.com/69948118/231141825-c626f93f-8cf1-4e3f-8c8c-32892c55a5ed.png)
+![image](https://user-images.githubusercontent.com/69948118/231142014-146e60b7-cf6c-4c51-adee-a3c5131a1158.png)
+![image](https://user-images.githubusercontent.com/69948118/231142196-d9a2e4f7-fe17-4707-843e-5b5095bf1937.png)
+![image](https://user-images.githubusercontent.com/69948118/231142419-b112b451-449f-4b8e-96f5-0d89819832a6.png)
+### Why terraform
+![image](https://user-images.githubusercontent.com/69948118/231142669-ad881d33-1178-4085-bf57-ea20aca43034.png)
+![image](https://user-images.githubusercontent.com/69948118/231142839-8493ac79-43b0-4484-ba5d-d33ea030aa4b.png)
+![image](https://user-images.githubusercontent.com/69948118/231142946-3beeb3dc-2397-4e9f-87bc-b90d6092d2e0.png)
+![image](https://user-images.githubusercontent.com/69948118/231143234-49230559-b31f-4ea7-b7d3-fde66fce9c67.png)
+![image](https://user-images.githubusercontent.com/69948118/231143557-68dfb912-a26b-493a-9e3e-b45aabb5d0ae.png)
+![image](https://user-images.githubusercontent.com/69948118/231143653-a8b69033-c226-4f5f-b702-d24f0fe6c2eb.png)
 
-
+## Getting Started with terraform
+![image](https://user-images.githubusercontent.com/69948118/231145160-a58817ca-0c7e-4268-bb71-df62c128bc73.png)
+ 
 
 
 
