@@ -818,6 +818,19 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231131442-dc443cff-b665-4905-be60-42b2e5e7e176.png)
 ![image](https://user-images.githubusercontent.com/69948118/231131631-124a4468-ff06-4625-9f0e-a73a09e6e006.png)
 ![image](https://user-images.githubusercontent.com/69948118/231131684-3132f254-e715-4ab5-9b49-0e4387146ca1.png)
+### Ansible Roles
+![image](https://user-images.githubusercontent.com/69948118/231132639-5f4ac891-1538-487a-af33-94244ba3df8a.png)
+![image](https://user-images.githubusercontent.com/69948118/231132844-0ffbd18b-fba9-463e-9881-c3c0f206e2f7.png)
+![image](https://user-images.githubusercontent.com/69948118/231133120-3428acf9-fc6b-4e33-b85f-9d653d75f108.png)
+![image](https://user-images.githubusercontent.com/69948118/231133264-5f060576-1421-49bd-9bb1-6fd7bf86a4db.png)
+![image](https://user-images.githubusercontent.com/69948118/231133312-2803a0f5-5325-4127-b9e5-781d162862fb.png)
+![image](https://user-images.githubusercontent.com/69948118/231133741-e61641b6-cb74-4c1f-97f7-a202b9ea2f19.png)
+![image](https://user-images.githubusercontent.com/69948118/231133900-be85598b-d652-4ef0-a012-c5039678bd95.png)
+![image](https://user-images.githubusercontent.com/69948118/231133981-0b822c9d-4755-4d0f-8395-4f31229c1dbe.png)
+![image](https://user-images.githubusercontent.com/69948118/231134111-e34c7f78-62c7-49d1-a12c-4a8003c07dd7.png)
+![image](https://user-images.githubusercontent.com/69948118/231134294-3439fb7a-fce7-45e8-9097-3c313934a073.png)
+![image](https://user-images.githubusercontent.com/69948118/231134593-87399a17-8bec-477e-a688-9f7e88899bb5.png)
+![image](https://user-images.githubusercontent.com/69948118/231134682-2f7101af-0130-4bc1-95d9-1fb9f5d486df.png)
 
 
 
