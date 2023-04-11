@@ -832,6 +832,7 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231134593-87399a17-8bec-477e-a688-9f7e88899bb5.png)
 ![image](https://user-images.githubusercontent.com/69948118/231134682-2f7101af-0130-4bc1-95d9-1fb9f5d486df.png)
 
+## Terraform
 
 
 
