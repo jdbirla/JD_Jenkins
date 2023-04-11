@@ -756,8 +756,13 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231054168-02970bdf-201b-4577-a38c-c3fe5f0e5bca.png)
 ![image](https://user-images.githubusercontent.com/69948118/231054278-6e40c74e-a25d-429a-9ef0-9a9d4612e0f7.png)
 ![image](https://user-images.githubusercontent.com/69948118/231054416-463d2475-093f-4383-8fd6-2bd952038b64.png)
+![image](https://user-images.githubusercontent.com/69948118/231057492-c460429f-6963-4140-b1e5-cfb6befab8ee.png)
 
-
+## Ansible Intro
+![image](https://user-images.githubusercontent.com/69948118/231064077-8b2d801b-6f78-4847-b2af-fc69c9e9ac1b.png)
+![image](https://user-images.githubusercontent.com/69948118/231064168-9f98cb97-d479-4363-b503-d7cad3f6f581.png)
+![image](https://user-images.githubusercontent.com/69948118/231064207-210ac753-a31d-4c88-85af-599c1ba3f814.png)
+![image](https://user-images.githubusercontent.com/69948118/231064435-1cb00f35-1239-46b2-bdc6-cc99f1bd4596.png)
 
 
 
