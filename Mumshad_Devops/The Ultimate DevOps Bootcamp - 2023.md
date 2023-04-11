@@ -767,7 +767,17 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ## Setup
 - Download the VDI from osboxres
 - https://www.osboxes.org/debian/#debian-11-vbox
+- create three different virtual machine controller , ansible targe1 and target2
+![image](https://user-images.githubusercontent.com/69948118/231098331-338433f0-2d03-4f49-a660-623d4b1a677e.png)
+![image](https://user-images.githubusercontent.com/69948118/231098581-884b0d57-3262-4873-8ec1-6284a512e346.png)
+![image](https://user-images.githubusercontent.com/69948118/231099949-b1e79d88-30b0-4d0a-a5fe-9478bd3670fd.png)
 
+## Ansible Concpet
+### Inventory
+![image](https://user-images.githubusercontent.com/69948118/231101397-c8d20b6d-efca-4b48-96a8-843b2c7b170a.png)
+![image](https://user-images.githubusercontent.com/69948118/231101488-a50c4487-1ca9-4223-92da-c39fb9595eb7.png)
+![image](https://user-images.githubusercontent.com/69948118/231101576-0e7cb716-9cfe-40c6-bf2d-d547f310d95b.png)
+![image](https://user-images.githubusercontent.com/69948118/231102159-853bd6d0-e357-4c7b-8cec-10775f6edd45.png)
 
 
 
