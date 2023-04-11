@@ -810,6 +810,14 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231128474-f50ab3be-ab59-44a2-9983-72f077437523.png)
 ![image](https://user-images.githubusercontent.com/69948118/231128516-928812e9-cb5d-42fd-b667-6cb9d19e3d1b.png)
 ![image](https://user-images.githubusercontent.com/69948118/231128676-963465af-0aac-4844-a5df-7a5495a57ecd.png)
+### Anisble loops
+![image](https://user-images.githubusercontent.com/69948118/231130443-9bcf57eb-3122-444a-9d26-8a7cd2c10c7f.png)
+![image](https://user-images.githubusercontent.com/69948118/231130635-45b47046-a5f1-4bf9-ad4f-8182c2974f37.png)
+![image](https://user-images.githubusercontent.com/69948118/231131200-f457468b-3b1e-4712-8d21-6e7e52dc07d9.png)
+![image](https://user-images.githubusercontent.com/69948118/231131357-a0e50c60-bd79-4f87-b95c-b2de18482ca7.png)
+![image](https://user-images.githubusercontent.com/69948118/231131442-dc443cff-b665-4905-be60-42b2e5e7e176.png)
+![image](https://user-images.githubusercontent.com/69948118/231131631-124a4468-ff06-4625-9f0e-a73a09e6e006.png)
+![image](https://user-images.githubusercontent.com/69948118/231131684-3132f254-e715-4ab5-9b49-0e4387146ca1.png)
 
 
 
