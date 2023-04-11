@@ -804,6 +804,12 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231126127-68a76573-abe4-475b-bc2d-e80871fb61a2.png)
 ![image](https://user-images.githubusercontent.com/69948118/231126459-8f3b6181-25f8-4bd9-8e23-28fde028fc89.png)
 ![image](https://user-images.githubusercontent.com/69948118/231126672-2138afb2-fb4a-42b1-a378-eac0c20e1a87.png)
+### Ansible Conditionals
+![image](https://user-images.githubusercontent.com/69948118/231128059-17e9ded6-84cf-4de6-b7a6-6575733ac824.png)
+![image](https://user-images.githubusercontent.com/69948118/231128179-561617b4-6960-4616-96df-8cd4f8523817.png)
+![image](https://user-images.githubusercontent.com/69948118/231128474-f50ab3be-ab59-44a2-9983-72f077437523.png)
+![image](https://user-images.githubusercontent.com/69948118/231128516-928812e9-cb5d-42fd-b667-6cb9d19e3d1b.png)
+![image](https://user-images.githubusercontent.com/69948118/231128676-963465af-0aac-4844-a5df-7a5495a57ecd.png)
 
 
 
