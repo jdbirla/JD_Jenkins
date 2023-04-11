@@ -742,6 +742,20 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231042012-15d9a33e-ac6b-4fe4-8474-bed16ca5e29a.png)
 ![image](https://user-images.githubusercontent.com/69948118/231042124-72a97f4f-e60f-4ab8-929a-5818897f973e.png)
 
+## Microservices Architecture
+![image](https://user-images.githubusercontent.com/69948118/231052851-cb612d25-0d05-4c9e-bdd2-89f946999a68.png)
+![image](https://user-images.githubusercontent.com/69948118/231053111-4f2497fe-cca8-4fee-b7b1-d8efe74b8fe2.png)
+![image](https://user-images.githubusercontent.com/69948118/231053260-f7e13c14-f1b5-4c59-91d9-39578ad26ebd.png)
+![image](https://user-images.githubusercontent.com/69948118/231053302-6152e482-74e1-4978-855f-c85efa844d66.png)
+![image](https://user-images.githubusercontent.com/69948118/231053386-43fb4ad1-19b9-44f1-a345-3589c14c5756.png)
+![image](https://user-images.githubusercontent.com/69948118/231053405-ae59dc18-c797-4a00-974f-73a4dc65f837.png)
+![image](https://user-images.githubusercontent.com/69948118/231053456-95d8233a-0dad-487f-bfc3-5e2d51156f5b.png)
+![image](https://user-images.githubusercontent.com/69948118/231053617-a683add0-e62a-4491-86f4-90e663dd2d53.png)
+![image](https://user-images.githubusercontent.com/69948118/231053790-ef76f7ae-2a5d-4a69-b04d-9a434f5bb7ef.png)
+![image](https://user-images.githubusercontent.com/69948118/231054054-a0f4a385-fd5a-4e22-8a4d-46e217a5fd3a.png)
+![image](https://user-images.githubusercontent.com/69948118/231054168-02970bdf-201b-4577-a38c-c3fe5f0e5bca.png)
+![image](https://user-images.githubusercontent.com/69948118/231054278-6e40c74e-a25d-429a-9ef0-9a9d4612e0f7.png)
+![image](https://user-images.githubusercontent.com/69948118/231054416-463d2475-093f-4383-8fd6-2bd952038b64.png)
 
 
 
