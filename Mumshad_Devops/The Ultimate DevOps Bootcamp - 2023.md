@@ -718,6 +718,29 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231036299-85ebd683-5320-4aa3-ac18-a0665bbd1fe5.png)
 ![image](https://user-images.githubusercontent.com/69948118/231036448-f840f359-f665-415a-b85c-b4452eebe120.png)
 
+## Netwroking in kubernetes
+![image](https://user-images.githubusercontent.com/69948118/231037134-94b721e2-a73d-4613-a26b-65b8535cc68a.png)
+![image](https://user-images.githubusercontent.com/69948118/231037346-ccb10745-9d95-43f7-93c0-738ff6ec789b.png)
+![image](https://user-images.githubusercontent.com/69948118/231037503-38bf0256-beb2-416a-b68e-4f2500c6b6d7.png)
+![image](https://user-images.githubusercontent.com/69948118/231037627-9fd4c04e-b71c-4c91-af3c-9d57357f314c.png)
+![image](https://user-images.githubusercontent.com/69948118/231037864-c1f98255-25c0-46d5-9521-c2482553b793.png)
+## Services in kubernetes
+![image](https://user-images.githubusercontent.com/69948118/231038106-98ad0a62-e48f-470e-97ee-fc3bae7c751d.png)
+![image](https://user-images.githubusercontent.com/69948118/231038390-d103a2eb-5af1-42a6-807b-f28b908bd374.png)
+![image](https://user-images.githubusercontent.com/69948118/231038448-fc99a320-3a70-43fc-82ab-fafa9c6b7113.png)
+![image](https://user-images.githubusercontent.com/69948118/231038548-f1496b3d-546d-45c8-8b59-67e12f6a23e4.png)
+![image](https://user-images.githubusercontent.com/69948118/231038647-92e28ada-19fb-4bd4-843b-84689b6aca5a.png)
+![image](https://user-images.githubusercontent.com/69948118/231038866-c09825f8-9eec-4e50-a36b-edca1765eec2.png)
+![image](https://user-images.githubusercontent.com/69948118/231039067-118ae499-6623-4338-9d55-e774006aad58.png)
+![image](https://user-images.githubusercontent.com/69948118/231039707-aa798ac9-2240-41a5-8dfa-ccf4b5bb4a06.png)
+![image](https://user-images.githubusercontent.com/69948118/231039793-7bd808b5-5d94-4588-bb00-4b6dfa9a0f33.png)
+![image](https://user-images.githubusercontent.com/69948118/231039897-b76aa102-0a39-4921-986d-a50668285a3b.png)
+![image](https://user-images.githubusercontent.com/69948118/231040034-65d8a9e3-343c-46c0-ab9c-078a81416d2c.png)
+![image](https://user-images.githubusercontent.com/69948118/231040859-745b7f16-f1bf-4804-b1c7-28b53b750058.png)
+![image](https://user-images.githubusercontent.com/69948118/231041281-e156ba03-c59a-4a29-833f-457129592dcd.png)
+![image](https://user-images.githubusercontent.com/69948118/231041585-6ef19f1d-b8a5-4201-a358-623b2ebea303.png)
+![image](https://user-images.githubusercontent.com/69948118/231042012-15d9a33e-ac6b-4fe4-8474-bed16ca5e29a.png)
+![image](https://user-images.githubusercontent.com/69948118/231042124-72a97f4f-e60f-4ab8-929a-5818897f973e.png)
 
 
 
