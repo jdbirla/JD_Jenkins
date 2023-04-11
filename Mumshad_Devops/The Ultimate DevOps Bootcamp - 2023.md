@@ -764,7 +764,9 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231064207-210ac753-a31d-4c88-85af-599c1ba3f814.png)
 ![image](https://user-images.githubusercontent.com/69948118/231064435-1cb00f35-1239-46b2-bdc6-cc99f1bd4596.png)
 
-
+## Setup
+- Download the VDI from osboxres
+- https://www.osboxes.org/debian/#debian-11-vbox
 
 
 
