@@ -909,7 +909,9 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231336493-505c9155-fa1d-4269-a5cf-8c5d22e7d545.png)
 ![image](https://user-images.githubusercontent.com/69948118/231336583-b464e233-94f1-4033-bbc2-f93f0b85f02f.png)
 ![image](https://user-images.githubusercontent.com/69948118/231336931-4d795f47-22f9-4f25-9e75-87808be83b89.png)
-
+### Resource Attribute Reference
+![image](https://user-images.githubusercontent.com/69948118/231338133-7af3d115-2ecd-4aa9-b211-51c0ee771b89.png)
+![image](https://user-images.githubusercontent.com/69948118/231338195-32864b45-b1d7-4d87-8168-68b5e803b859.png)
 
 
 
