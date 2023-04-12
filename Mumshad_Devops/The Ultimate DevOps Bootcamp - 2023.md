@@ -901,6 +901,14 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231334503-7bfc423a-1e2d-42fc-ac4a-5a848d3a9b85.png)
 ![image](https://user-images.githubusercontent.com/69948118/231334806-3c5f622c-a164-43ae-bc04-d1931a965add.png)
 ![image](https://user-images.githubusercontent.com/69948118/231334976-48a7d116-7b16-4d0e-8fae-cd07797f24d6.png)
+### Using variables
+![image](https://user-images.githubusercontent.com/69948118/231336312-a33ccf1f-ce8f-43c4-8eff-41f37c102e64.png)
+![image](https://user-images.githubusercontent.com/69948118/231336341-a9161fb4-1629-4367-87cc-3c9fce1f7cbf.png)
+![image](https://user-images.githubusercontent.com/69948118/231336355-73e73985-8c55-4961-85e4-5b62af8f831d.png)
+![image](https://user-images.githubusercontent.com/69948118/231336405-b09e855e-8596-4a74-a271-3e7ab29e978c.png)
+![image](https://user-images.githubusercontent.com/69948118/231336493-505c9155-fa1d-4269-a5cf-8c5d22e7d545.png)
+![image](https://user-images.githubusercontent.com/69948118/231336583-b464e233-94f1-4033-bbc2-f93f0b85f02f.png)
+![image](https://user-images.githubusercontent.com/69948118/231336931-4d795f47-22f9-4f25-9e75-87808be83b89.png)
 
 
 
