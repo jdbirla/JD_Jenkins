@@ -875,6 +875,13 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231323761-25eea889-3fa9-40e4-98b9-206e6a1bd459.png)
 ![image](https://user-images.githubusercontent.com/69948118/231323803-8e06fb3b-b3ef-4d33-9e72-0304796f9fe0.png)
 
+## Terraform Providers
+![image](https://user-images.githubusercontent.com/69948118/231325579-2152ea86-2ace-4414-886e-dcfd90c906b7.png)
+- https://registry.terraform.io/providers/hashicorp/aws/latest
+![image](https://user-images.githubusercontent.com/69948118/231325793-95727d19-e71e-4a11-8c1a-ee016115a1d4.png)
+![image](https://user-images.githubusercontent.com/69948118/231325904-68ec6657-7625-4ab2-937f-b948bba69d48.png)
+![image](https://user-images.githubusercontent.com/69948118/231326002-a62b0fec-f367-4eca-ba35-62cdd2e690df.png)
+![image](https://user-images.githubusercontent.com/69948118/231326029-e131a6d1-b47d-451f-95e9-29d5b8804ab7.png)
 
 
 
