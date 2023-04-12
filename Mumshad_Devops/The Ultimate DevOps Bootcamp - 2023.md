@@ -921,6 +921,17 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231351779-9deb8631-01a6-4594-8a85-dee46896ea1a.png)
 ![image](https://user-images.githubusercontent.com/69948118/231351861-0cd50861-267a-42ac-b8e4-89c7b5d86dbd.png)
 
+## Inroduction to Terraform State
+![image](https://user-images.githubusercontent.com/69948118/231419474-4429c160-45ad-4b66-aae3-f3d754cf238b.png)
+![image](https://user-images.githubusercontent.com/69948118/231419573-31ed25c0-9f14-4c51-8f6f-c7061574d8f7.png)
+![image](https://user-images.githubusercontent.com/69948118/231419859-5999e6df-4d22-43a4-a9af-b22bd86ee80b.png)
+![image](https://user-images.githubusercontent.com/69948118/231420102-e8324861-d68a-4af2-b014-cf6f4b1a70d7.png)
+![image](https://user-images.githubusercontent.com/69948118/231420215-bb69452c-bc80-49aa-9019-417b01003633.png)
+![image](https://user-images.githubusercontent.com/69948118/231420729-4d49e8fd-0084-4e64-917a-4c7f0a88500d.png)
+![image](https://user-images.githubusercontent.com/69948118/231421256-202a2473-fe0b-423e-abca-a49b806dd16b.png)
+![image](https://user-images.githubusercontent.com/69948118/231421614-c8774c50-73c6-4c1e-8eec-e725d0b57c50.png)
+![image](https://user-images.githubusercontent.com/69948118/231421895-f8bca584-1c05-4914-bd2d-68c554fdd677.png)
+![image](https://user-images.githubusercontent.com/69948118/231422063-e2bef9eb-7181-4b93-a5ce-e6ed2c2a06fe.png)
 
 
 
