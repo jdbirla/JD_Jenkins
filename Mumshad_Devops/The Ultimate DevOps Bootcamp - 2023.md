@@ -857,7 +857,20 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 
 ## Getting Started with terraform
 ![image](https://user-images.githubusercontent.com/69948118/231145160-a58817ca-0c7e-4268-bb71-df62c128bc73.png)
- 
+![image](https://user-images.githubusercontent.com/69948118/231321408-e946f878-5a3d-4888-a506-87534f4c7d08.png)
+![image](https://user-images.githubusercontent.com/69948118/231321512-bdf01685-04c9-48c2-8afa-e3069fc0f0e4.png)
+![image](https://user-images.githubusercontent.com/69948118/231321701-8d1abd5a-d495-4794-9092-71a0c20c2afc.png)
+![image](https://user-images.githubusercontent.com/69948118/231321845-6217e424-8763-4474-8110-49d3aa7edeec.png)
+![image](https://user-images.githubusercontent.com/69948118/231322129-8f0d9100-86e7-46a0-852a-c9cde82a22ed.png)
+![image](https://user-images.githubusercontent.com/69948118/231322350-a4c7f111-7ac9-4e37-abe6-6e3f0285d909.png)
+![image](https://user-images.githubusercontent.com/69948118/231322371-3986ed6b-2bb9-4220-9fe4-1d87bd33c3f7.png)
+![image](https://user-images.githubusercontent.com/69948118/231322465-520df56e-8136-4e54-bdbb-468683278e56.png)
+![image](https://user-images.githubusercontent.com/69948118/231322574-086ae890-8d1e-4f7c-ab72-d459ab9e344e.png)
+![image](https://user-images.githubusercontent.com/69948118/231322694-4a898e95-36b3-4f9d-b3b8-81b4dd5c1f26.png)
+![image](https://user-images.githubusercontent.com/69948118/231322778-6215af59-675c-4d2a-ab4e-86c7f6df63c4.png)
+![image](https://user-images.githubusercontent.com/69948118/231322844-6a7df97e-33e1-4fd5-838c-4d12f82e28c1.png)
+![image](https://user-images.githubusercontent.com/69948118/231323026-52f2525a-b5ef-4e93-88a1-499cc8a64ee5.png)
+
 
 
 
