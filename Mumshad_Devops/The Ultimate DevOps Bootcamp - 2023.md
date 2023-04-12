@@ -887,6 +887,20 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231329521-6a11a6eb-4288-418d-8508-b87cf9234701.png)
 ### Multiple  providers
 ![image](https://user-images.githubusercontent.com/69948118/231329771-43bbc7b0-d41b-4b0d-a19f-40f552ebb78c.png)
+### Define Input Variables
+![image](https://user-images.githubusercontent.com/69948118/231333228-f74cbac5-480d-4356-9b0c-38df768ea085.png)
+![image](https://user-images.githubusercontent.com/69948118/231333355-950d4520-53d9-4856-b718-b6de5929725b.png)
+![image](https://user-images.githubusercontent.com/69948118/231333491-b38099d8-70bf-4da3-82df-b739fd81243b.png)
+![image](https://user-images.githubusercontent.com/69948118/231333668-d3c61c41-a06c-4475-aad3-0fb70ce3d1fa.png)
+![image](https://user-images.githubusercontent.com/69948118/231333822-d22706d4-5ece-4821-936c-e1573a3b060b.png)
+![image](https://user-images.githubusercontent.com/69948118/231333944-fa62f428-5061-48df-9bf6-f2af1d6c4172.png)
+![image](https://user-images.githubusercontent.com/69948118/231334097-abc6de13-02a5-4fa6-a94a-57cf9b18eb94.png)
+![image](https://user-images.githubusercontent.com/69948118/231334303-17b0c3f1-3bc0-454b-81e2-dd49e99277e1.png)
+![image](https://user-images.githubusercontent.com/69948118/231334374-6fb02ea3-b01a-4a29-9eb9-dd132c4f99be.png)
+![image](https://user-images.githubusercontent.com/69948118/231334456-f8cef092-c0c9-401c-a007-b63f10cae013.png)
+![image](https://user-images.githubusercontent.com/69948118/231334503-7bfc423a-1e2d-42fc-ac4a-5a848d3a9b85.png)
+![image](https://user-images.githubusercontent.com/69948118/231334806-3c5f622c-a164-43ae-bc04-d1931a965add.png)
+![image](https://user-images.githubusercontent.com/69948118/231334976-48a7d116-7b16-4d0e-8fae-cd07797f24d6.png)
 
 
 
