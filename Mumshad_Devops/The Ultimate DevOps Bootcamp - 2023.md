@@ -882,6 +882,9 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231325904-68ec6657-7625-4ab2-937f-b948bba69d48.png)
 ![image](https://user-images.githubusercontent.com/69948118/231326002-a62b0fec-f367-4eca-ba35-62cdd2e690df.png)
 ![image](https://user-images.githubusercontent.com/69948118/231326029-e131a6d1-b47d-451f-95e9-29d5b8804ab7.png)
+### Configuration directory
+![image](https://user-images.githubusercontent.com/69948118/231329441-5f899f76-5f6f-483a-bef7-2f1c05ddfc4c.png)
+![image](https://user-images.githubusercontent.com/69948118/231329521-6a11a6eb-4288-418d-8508-b87cf9234701.png)
 
 
 
