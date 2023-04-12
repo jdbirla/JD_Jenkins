@@ -915,7 +915,11 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ## Resource dependency
 ![image](https://user-images.githubusercontent.com/69948118/231348996-bcad3496-cc76-439e-b931-d84692fc37d2.png)
 ![image](https://user-images.githubusercontent.com/69948118/231349128-47e3e4fc-b1a7-4c1c-94b2-924cc8ffaf0d.png)
-
+### Output variables
+![image](https://user-images.githubusercontent.com/69948118/231351647-28055ed9-bb33-46f6-9c81-fa9097c533bd.png)
+![image](https://user-images.githubusercontent.com/69948118/231351689-c7826096-1f82-4b50-b2c7-20bedc1f0fa4.png)
+![image](https://user-images.githubusercontent.com/69948118/231351779-9deb8631-01a6-4594-8a85-dee46896ea1a.png)
+![image](https://user-images.githubusercontent.com/69948118/231351861-0cd50861-267a-42ac-b8e4-89c7b5d86dbd.png)
 
 
 
