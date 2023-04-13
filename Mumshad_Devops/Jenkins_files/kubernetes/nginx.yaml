@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: niginx-2
+  labels:
+    env: production
+spec:
+  containers:
+    - name: niginx
+      image: niginx
