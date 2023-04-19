@@ -1220,7 +1220,19 @@ variable "region" {
 ![image](https://user-images.githubusercontent.com/69948118/233014566-47b73c4c-2e77-4c94-9125-3e6b0e020ecb.png)
 ![image](https://user-images.githubusercontent.com/69948118/233015358-5fa09f4e-aa66-48c1-91c7-524a8daa1f6a.png)
 
+## Terraform Taint
+![image](https://user-images.githubusercontent.com/69948118/233024517-c57d88a8-6fb8-491d-9cd2-771604f654eb.png)
+![image](https://user-images.githubusercontent.com/69948118/233024575-30d32d90-2b7f-4cff-8f01-1604ced34a0f.png)
+![image](https://user-images.githubusercontent.com/69948118/233025013-50fd1040-583c-4f63-a7b6-c3712f10edfe.png)
+![image](https://user-images.githubusercontent.com/69948118/233025047-a57f0751-767f-41d9-8d54-fb745fbe0f24.png)
 
+
+## Debugging
+
+![image](https://user-images.githubusercontent.com/69948118/233025384-9ecc383a-677b-4430-a05f-22844086d1f7.png)
+![image](https://user-images.githubusercontent.com/69948118/233025594-55a85e20-c930-4c34-ac9b-d8d8668b5bbf.png)
+
+## Terraform Import
 
 
 
