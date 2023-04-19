@@ -1040,8 +1040,59 @@ iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name m
 ![image](https://user-images.githubusercontent.com/69948118/232970378-7abe5eb2-275b-4488-a0d1-35c565cd57b5.png)
 ![image](https://user-images.githubusercontent.com/69948118/232970641-82a8ca06-8590-40c5-9305-d9a1b395f0b5.png)
 
+#### LAB
+* main.tf
+```sh
+resource "aws_s3_bucket" "dc_bucket" {
+  bucket = "dc-is-better-than-marvel"
 
+}
+```
+* provider.tf
+```sh
+terraform {
+  required_providers {
+    aws = {
+      source = "hashicorp/aws"
+      version = "4.15.0"
+    }
+  }
+}
 
+provider "aws" {
+  region                      = var.region
+  s3_use_path_style = true
+  skip_credentials_validation = true
+  skip_requesting_account_id  = true
+
+  endpoints {
+    s3                       = "http://aws:4566"
+  }
+}
+
+```
+* terraform.tfvars
+```sh
+region = "us-east-1"
+```
+
+* variables.tf
+```sh
+variable "region" {
+}
+
+```
+
+* upload.tf
+```sh
+resource "aws_s3_object" "upload" {
+  bucket = "pixar-studios-2020"
+  key    = "woody.jpg"
+  source = "/root/woody.jpg"
+}
+```
+
+---
 
 ## Lab Setup
 ![image](https://user-images.githubusercontent.com/69948118/231444207-3cbd2f18-f5dd-4da2-a00e-a5888b2f33ae.png)
