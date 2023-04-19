@@ -1013,10 +1013,22 @@ aws_secret_access_key = bar
 iac-server $ 
 iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name mary --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
 iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name mary --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
-
-
-
 ```
+## Create AWS Resource usinng Terraform
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_group_policy
+![image](https://user-images.githubusercontent.com/69948118/232955725-98bb7f09-4d04-4f5b-aad7-09078ab50c7f.png)
+![image](https://user-images.githubusercontent.com/69948118/232956008-3eed32d4-9566-46d5-aee1-023e77325d72.png)
+![image](https://user-images.githubusercontent.com/69948118/232956321-99ace8cc-7792-44e9-82ce-32b2fc0c3b97.png)
+![image](https://user-images.githubusercontent.com/69948118/232956370-2ad87cf6-b600-40ec-b031-7ca28bc33786.png)
+![image](https://user-images.githubusercontent.com/69948118/232956630-b35e8073-0086-4f7b-86ce-c092f8324042.png)
+![image](https://user-images.githubusercontent.com/69948118/232957143-b746b108-c724-4559-9850-4c993d8d3fe8.png)
+![image](https://user-images.githubusercontent.com/69948118/232957302-a1c9a280-3f6c-4c55-bb5f-7499ebfc717d.png)
+![image](https://user-images.githubusercontent.com/69948118/232957479-c21b4832-0482-4163-99dc-3b54e231ac77.png)
+
+
+
+
+
 
 ## Lab Setup
 ![image](https://user-images.githubusercontent.com/69948118/231444207-3cbd2f18-f5dd-4da2-a00e-a5888b2f33ae.png)
