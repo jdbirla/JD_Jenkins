@@ -1014,7 +1014,7 @@ iac-server $
 iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name mary --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
 iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name mary --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
 ```
-## Create AWS Resource usinng Terraform
+## Create AWS Policies usinng Terraform
 - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_group_policy
 ![image](https://user-images.githubusercontent.com/69948118/232955725-98bb7f09-4d04-4f5b-aad7-09078ab50c7f.png)
 ![image](https://user-images.githubusercontent.com/69948118/232956008-3eed32d4-9566-46d5-aee1-023e77325d72.png)
@@ -1024,8 +1024,21 @@ iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name m
 ![image](https://user-images.githubusercontent.com/69948118/232957143-b746b108-c724-4559-9850-4c993d8d3fe8.png)
 ![image](https://user-images.githubusercontent.com/69948118/232957302-a1c9a280-3f6c-4c55-bb5f-7499ebfc717d.png)
 ![image](https://user-images.githubusercontent.com/69948118/232957479-c21b4832-0482-4163-99dc-3b54e231ac77.png)
+### Lab
+```sh
 
 
+```
+
+## AWS S3
+![image](https://user-images.githubusercontent.com/69948118/232968764-c8f00b37-6e6f-40dd-b483-d124be9b3322.png)
+![image](https://user-images.githubusercontent.com/69948118/232968845-17a561ff-a385-451a-b26d-717b061f4b50.png)
+### S3 with terraform
+![image](https://user-images.githubusercontent.com/69948118/232969549-ca6629e6-9b3d-4e71-b12f-ac26f355d00c.png)
+![image](https://user-images.githubusercontent.com/69948118/232969649-301a0e15-b2fe-48c6-b496-692b51038fed.png)
+![image](https://user-images.githubusercontent.com/69948118/232969693-74a5ae42-8ac7-4a62-8488-a3f2a01f8def.png)
+![image](https://user-images.githubusercontent.com/69948118/232970378-7abe5eb2-275b-4488-a0d1-35c565cd57b5.png)
+![image](https://user-images.githubusercontent.com/69948118/232970641-82a8ca06-8590-40c5-9305-d9a1b395f0b5.png)
 
 
 
