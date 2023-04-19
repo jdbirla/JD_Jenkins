@@ -970,6 +970,20 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/231441390-418da6f8-a72c-4c7d-99ff-572572dd7c77.png)
 ![image](https://user-images.githubusercontent.com/69948118/231442166-dac1d2bb-9f94-4293-85a6-f96f79d5672f.png)
 
+## Getting Started with AWS
+![image](https://user-images.githubusercontent.com/69948118/232946920-2f87449a-387b-45e6-9008-38c4031167ba.png)
+![image](https://user-images.githubusercontent.com/69948118/232946956-6c3ccc22-990e-4a49-862d-ce36dca013b1.png)
+![image](https://user-images.githubusercontent.com/69948118/232947073-b4fdd2fa-2efb-4ee1-807b-3a34e2540548.png)
+![image](https://user-images.githubusercontent.com/69948118/232947704-a479ff6f-d300-4a40-9319-aad9d4987a2f.png)
+![image](https://user-images.githubusercontent.com/69948118/232947829-380127d0-5c17-43dd-a712-bee67e06c852.png)
+![image](https://user-images.githubusercontent.com/69948118/232948035-3118404e-78a4-4593-b036-43e5f2fa36dc.png)
+![image](https://user-images.githubusercontent.com/69948118/232948249-b8afc4d0-55a7-4889-834d-5990ece85c20.png)
+![image](https://user-images.githubusercontent.com/69948118/232948498-80f5ea11-4c2e-41e1-b167-7ed85a3a352b.png)
+![image](https://user-images.githubusercontent.com/69948118/232948642-7709424c-b325-4e69-975d-b45c33abb0ec.png)
+![image](https://user-images.githubusercontent.com/69948118/232948733-74d63969-66b0-4240-8bc9-ad34a555160a.png)
+
+
+
 ## Lab Setup
 ![image](https://user-images.githubusercontent.com/69948118/231444207-3cbd2f18-f5dd-4da2-a00e-a5888b2f33ae.png)
 ![image](https://user-images.githubusercontent.com/69948118/231444466-a9f3bba7-780a-4833-a1e9-22599ffa751c.png)
