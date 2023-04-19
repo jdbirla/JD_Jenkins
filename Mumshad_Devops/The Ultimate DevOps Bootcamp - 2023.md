@@ -1249,6 +1249,17 @@ variable "region" {
 
 ## Terraform Functions and Conditional
 
+![image](https://user-images.githubusercontent.com/69948118/233033132-4583fcf1-2820-4c98-95b7-fe43ab94fe07.png)
+![image](https://user-images.githubusercontent.com/69948118/233038438-cfe88da5-1a3f-4395-87ca-8e50db1a10d7.png)
+![image](https://user-images.githubusercontent.com/69948118/233038653-b8d43932-8211-4691-a565-abc2de4df4d1.png)
+![image](https://user-images.githubusercontent.com/69948118/233038754-3287df27-f333-4192-a772-190ad82992e6.png)
+![image](https://user-images.githubusercontent.com/69948118/233038821-2093dad1-9448-43c4-9cbf-60ad93257c0a.png)
+![image](https://user-images.githubusercontent.com/69948118/233039132-fbec7b2c-8e34-4010-b0b5-dc90d1e82bab.png)
+![image](https://user-images.githubusercontent.com/69948118/233039244-91a05235-9044-4162-bfd3-63f827935cdf.png)
+![image](https://user-images.githubusercontent.com/69948118/233040840-6c8d2132-a71e-4028-946a-04372e6bb337.png)
+![image](https://user-images.githubusercontent.com/69948118/233040953-4abe6976-ec34-4927-b337-2053cc6db284.png)
+![image](https://user-images.githubusercontent.com/69948118/233041782-1dd6a69c-9e4e-49e1-a22f-f553de91aa26.png)
+![image](https://user-images.githubusercontent.com/69948118/233041908-398832b2-fcd9-49a6-840e-19bed678b8a5.png)
 
 
 ---
