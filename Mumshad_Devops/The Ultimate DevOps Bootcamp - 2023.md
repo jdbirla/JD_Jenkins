@@ -981,7 +981,11 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/232948498-80f5ea11-4c2e-41e1-b167-7ed85a3a352b.png)
 ![image](https://user-images.githubusercontent.com/69948118/232948642-7709424c-b325-4e69-975d-b45c33abb0ec.png)
 ![image](https://user-images.githubusercontent.com/69948118/232948733-74d63969-66b0-4240-8bc9-ad34a555160a.png)
-
+### Role
+![image](https://user-images.githubusercontent.com/69948118/232950235-997c7715-e144-4a66-81c0-3602f64b3929.png)
+![image](https://user-images.githubusercontent.com/69948118/232950291-e7e80e6f-bbac-4aa2-baa7-3c675571e0d5.png)
+![image](https://user-images.githubusercontent.com/69948118/232950366-f99dbce3-90af-4703-bdc9-3de4ecea9fd2.png)
+![image](https://user-images.githubusercontent.com/69948118/232950420-d43f2bc6-05db-4cba-b910-094597540469.png)
 
 
 ## Lab Setup
