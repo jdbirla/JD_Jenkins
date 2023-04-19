@@ -1091,6 +1091,12 @@ resource "aws_s3_object" "upload" {
   source = "/root/woody.jpg"
 }
 ```
+## AWS DyamoDB
+![image](https://user-images.githubusercontent.com/69948118/232972987-875b39e2-3437-488f-8be7-dfbb562bed42.png)
+![image](https://user-images.githubusercontent.com/69948118/232973130-c31034a6-f72c-4a8b-ab2f-59fad6e37c02.png)
+![image](https://user-images.githubusercontent.com/69948118/232973179-70400756-1356-4dc3-bca4-874e0fa4afb7.png)
+### AWS Dynomodb with Terrform
+![image](https://user-images.githubusercontent.com/69948118/232974446-e5c91743-fc04-4fb0-a499-38b061c6e50e.png)
 
 ---
 
