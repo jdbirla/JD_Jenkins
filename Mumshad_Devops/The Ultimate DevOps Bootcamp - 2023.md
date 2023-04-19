@@ -1233,7 +1233,21 @@ variable "region" {
 ![image](https://user-images.githubusercontent.com/69948118/233025594-55a85e20-c930-4c34-ac9b-d8d8668b5bbf.png)
 
 ## Terraform Import
+![image](https://user-images.githubusercontent.com/69948118/233026830-bd15c69f-9609-4627-87a2-003fce6c459b.png)
+![image](https://user-images.githubusercontent.com/69948118/233026770-05221a74-23d0-4f3e-b0b0-ad261f36b648.png)
+![image](https://user-images.githubusercontent.com/69948118/233027112-12914081-ee27-4e9b-af31-1a83fc9ffc89.png)
 
+## Terraform Modules
+![image](https://user-images.githubusercontent.com/69948118/233028483-f2c1c758-b1a4-4c98-a58c-3104f5f92cc5.png)
+![image](https://user-images.githubusercontent.com/69948118/233029172-c92a8b71-76dc-4635-bfe4-534150198bc1.png)
+![image](https://user-images.githubusercontent.com/69948118/233029525-a83bf79c-9af5-49b0-89fc-1ff546f052a6.png)
+![image](https://user-images.githubusercontent.com/69948118/233030086-e3cd3ffb-32eb-46ec-bafc-398b35b3acef.png)
+![image](https://user-images.githubusercontent.com/69948118/233030647-20c72761-1476-4b26-97fe-2d2f9176b0cb.png)
+![image](https://user-images.githubusercontent.com/69948118/233031369-d7192a05-7c78-4ed4-8d01-e09ab3850b40.png)
+![image](https://user-images.githubusercontent.com/69948118/233031553-2c96eeb0-667f-4f99-92be-fd78976100b8.png)
+![image](https://user-images.githubusercontent.com/69948118/233031959-ed74d202-243e-4bfa-a6e6-93d5c60c6d28.png)
+
+## Terraform Functions and Conditional
 
 
 
