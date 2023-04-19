@@ -986,6 +986,14 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/232950291-e7e80e6f-bbac-4aa2-baa7-3c675571e0d5.png)
 ![image](https://user-images.githubusercontent.com/69948118/232950366-f99dbce3-90af-4703-bdc9-3de4ecea9fd2.png)
 ![image](https://user-images.githubusercontent.com/69948118/232950420-d43f2bc6-05db-4cba-b910-094597540469.png)
+## Programmatic
+![image](https://user-images.githubusercontent.com/69948118/232950601-a32cb0fd-abf3-4842-addf-d1357fb5a820.png)
+![image](https://user-images.githubusercontent.com/69948118/232950618-df1fdf81-d026-40f5-b184-6969019e9bef.png)
+![image](https://user-images.githubusercontent.com/69948118/232950733-a5eab2e6-b2a9-4e53-af09-36bdd5b91572.png)
+![image](https://user-images.githubusercontent.com/69948118/232950882-1367b9bb-e444-4fa5-ae7b-118218ad4eea.png)
+![image](https://user-images.githubusercontent.com/69948118/232950931-7bc758d8-d7c3-4f6a-bb74-4a0230ccf348.png)
+![image](https://user-images.githubusercontent.com/69948118/232951162-5489fe80-f3fb-42fd-b302-6eff54e32cb9.png)
+![image](https://user-images.githubusercontent.com/69948118/232951250-7c337cad-4e12-4147-84fa-c34f73f72e64.png)
 
 
 ## Lab Setup
