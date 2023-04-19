@@ -1178,6 +1178,23 @@ variable "region" {
 
 ```
 
+## Remote State
+![image](https://user-images.githubusercontent.com/69948118/232978326-331486ba-9d71-4b76-b151-0de9ee4fc448.png)
+![image](https://user-images.githubusercontent.com/69948118/232978488-b3daefb5-62c4-40fa-841f-285c26c7190f.png)
+![image](https://user-images.githubusercontent.com/69948118/232978583-e9347604-b618-4673-855c-faf09bca7c4a.png)
+![image](https://user-images.githubusercontent.com/69948118/232978884-15d8b6a8-195e-427b-bfc9-2b365e89b4d4.png)
+![image](https://user-images.githubusercontent.com/69948118/232978934-0748941d-2c17-4aec-b274-aea00e60ea5d.png)
+![image](https://user-images.githubusercontent.com/69948118/232979003-04aa2cc4-2a1e-49b9-8a86-19a426c2a75e.png)
+![image](https://user-images.githubusercontent.com/69948118/232979053-6792e5c5-ae99-48cb-8747-b1a7d872e5c6.png)
+![image](https://user-images.githubusercontent.com/69948118/232979111-b110cbb4-8af6-4a32-a49e-99fa43bd6a47.png)
+![image](https://user-images.githubusercontent.com/69948118/232979254-2d982d86-0e3f-45dc-b973-96cb394307e5.png)
+![image](https://user-images.githubusercontent.com/69948118/232979343-9c622aae-5aac-4447-b72b-e03df03b0fe1.png)
+### Remote Backends with S3
+![image](https://user-images.githubusercontent.com/69948118/232979482-bc8ee85b-7ae6-4fbd-b5b1-74950a2382f2.png)
+![image](https://user-images.githubusercontent.com/69948118/232979820-eb7f3238-b489-45c7-bd32-90c6d56823bf.png)
+![image](https://user-images.githubusercontent.com/69948118/232979968-ab664dcc-5b85-46f3-8ad2-5f028ac8451c.png)
+![image](https://user-images.githubusercontent.com/69948118/232980128-386f7603-f7b3-478b-b041-f347c1811be5.png)
+
 
 ---
 
