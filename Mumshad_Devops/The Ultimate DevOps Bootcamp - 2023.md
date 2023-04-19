@@ -995,6 +995,28 @@ controlplane ~ ➜  kubectl create -f redis-definition.yaml
 ![image](https://user-images.githubusercontent.com/69948118/232951162-5489fe80-f3fb-42fd-b302-6eff54e32cb9.png)
 ![image](https://user-images.githubusercontent.com/69948118/232951250-7c337cad-4e12-4147-84fa-c34f73f72e64.png)
 
+### Lab for IAM CLI
+```sh
+iac-server $ aws --version
+aws-cli/2.2.20 Python/3.8.8 Linux/5.4.0-1102-gcp exe/x86_64.ubuntu.18 prompt/off
+iac-server $ 
+iac-server $ cd /root/.aws/
+iac-server $ ls
+config  credentials
+iac-server $ cat config 
+[default]
+region = us-east-1
+iac-server $ cat credentials 
+[default]
+aws_access_key_id = foo
+aws_secret_access_key = bar
+iac-server $ 
+iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name mary --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
+iac-server $ aws --endpoint http://aws:4566 iam attach-user-policy --user-name mary --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
+
+
+
+```
 
 ## Lab Setup
 ![image](https://user-images.githubusercontent.com/69948118/231444207-3cbd2f18-f5dd-4da2-a00e-a5888b2f33ae.png)
