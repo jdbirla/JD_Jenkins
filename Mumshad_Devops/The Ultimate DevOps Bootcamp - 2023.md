@@ -1203,6 +1203,27 @@ variable "region" {
 ![image](https://user-images.githubusercontent.com/69948118/232988474-187cacc2-7108-41ee-9609-44a9b20fd128.png)
 ![image](https://user-images.githubusercontent.com/69948118/232988668-57649f11-9651-44b0-94fe-fba829b28753.png)
 
+## Terraform Provisioners
+### AWS EC2 with Terraform
+![image](https://user-images.githubusercontent.com/69948118/233012018-a061ef78-dcd7-44a4-bb43-e8bf7290b89e.png)
+![image](https://user-images.githubusercontent.com/69948118/233012465-20a7ee42-b53c-467a-82a2-4bf28e0e44e2.png)
+![image](https://user-images.githubusercontent.com/69948118/233012491-822f957a-8257-44d8-a9b2-7d6cd48de693.png)
+![image](https://user-images.githubusercontent.com/69948118/233012975-27a2a635-8b5f-4e3e-9bbe-2ed9a5f8c1a1.png)
+![image](https://user-images.githubusercontent.com/69948118/233013087-5ebe5893-5645-4268-b50c-326bb92cc7c5.png)
+![image](https://user-images.githubusercontent.com/69948118/233013170-5756f184-cc62-4409-a004-3bb790106e08.png)
+### Terraform Provisioners
+![image](https://user-images.githubusercontent.com/69948118/233013648-9c58def6-9731-4f3e-a4ea-15c67e244f24.png)
+![image](https://user-images.githubusercontent.com/69948118/233013810-8eefa889-cb3f-47ac-8c5b-468aa5342452.png)
+![image](https://user-images.githubusercontent.com/69948118/233013992-34bdff94-8392-4d82-859f-c583e29441c6.png)
+![image](https://user-images.githubusercontent.com/69948118/233014331-4c77a60e-666d-44df-a62f-a885a867a9a6.png)
+![image](https://user-images.githubusercontent.com/69948118/233014464-2a59720e-0d05-460e-bf01-9428df727830.png)
+![image](https://user-images.githubusercontent.com/69948118/233014566-47b73c4c-2e77-4c94-9125-3e6b0e020ecb.png)
+![image](https://user-images.githubusercontent.com/69948118/233015358-5fa09f4e-aa66-48c1-91c7-524a8daa1f6a.png)
+
+
+
+
+
 
 ---
 
