@@ -1195,6 +1195,14 @@ variable "region" {
 ![image](https://user-images.githubusercontent.com/69948118/232979968-ab664dcc-5b85-46f3-8ad2-5f028ac8451c.png)
 ![image](https://user-images.githubusercontent.com/69948118/232980128-386f7603-f7b3-478b-b041-f347c1811be5.png)
 
+### Terraform State commands
+![image](https://user-images.githubusercontent.com/69948118/232987242-75ef90e7-6196-4755-aadd-d02529260a3e.png)
+![image](https://user-images.githubusercontent.com/69948118/232987412-101c1f92-412a-4b1f-8f24-4aa149dd4763.png)
+![image](https://user-images.githubusercontent.com/69948118/232987464-5cc58dac-5da8-4572-ba11-8e52ae14bba9.png)
+![image](https://user-images.githubusercontent.com/69948118/232987785-a4a3ec10-33d3-4fd3-ae1b-5f9cd5d4effb.png)
+![image](https://user-images.githubusercontent.com/69948118/232988474-187cacc2-7108-41ee-9609-44a9b20fd128.png)
+![image](https://user-images.githubusercontent.com/69948118/232988668-57649f11-9651-44b0-94fe-fba829b28753.png)
+
 
 ---
 
