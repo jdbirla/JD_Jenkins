@@ -1,0 +1,2 @@
+# Learn GitLab CI/CD from a GitLab Hero. Obtain valuable DevOps skills. Build pipelines & Deploy to AWS.
+- https://precisely.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/learn/lecture/15108710?start=1#overview
