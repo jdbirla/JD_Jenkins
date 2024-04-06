@@ -30,4 +30,9 @@ test:
         - echo "Testing"
         - test -f "build/info.txt"
 ```
+- yml : https://learn.getgrav.org/16/advanced/yaml
+- SSH git windows : https://www.youtube.com/watch?v=Vmt0V6a3ppE , https://medium.com/devops-with-valentine/2021-how-to-your-ssh-key-for-gitlab-on-windows-10-587579192be0
+
+### GIT Architecture
+
 
