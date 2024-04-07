@@ -34,5 +34,35 @@ test:
 - SSH git windows : https://www.youtube.com/watch?v=Vmt0V6a3ppE , https://medium.com/devops-with-valentine/2021-how-to-your-ssh-key-for-gitlab-on-windows-10-587579192be0
 
 ### GIT Architecture
+![image](https://github.com/jdbirla/JD_Jenkins/assets/69948118/a4dd2984-03d9-48b2-99cf-9374c6e73ca5)
+
+
+## Basic CICD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
