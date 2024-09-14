@@ -35,3 +35,48 @@ needs of even the most demanding applications.
 - Promtail is a lightweight log agent that ships logs from your containers to Loki. It is easy to configure and can be used to collect logs from a wide variety of sources.
 - Together, Grafana Loki and Promtail provide a powerful logging solution that can help you to understand and troubleshoot your applications.
 - Grafana provides visualization of the log lines captured within Loki.
+
+![image](https://github.com/user-attachments/assets/db232440-3f09-4e38-9083-65cc228dba0b)
+
+#### Metrics & monitoring with Spring Boot Actuator, Micrometer, Prometheus & Grafana
+##### Metrics: 
+- Metrics are numerical measurements of an application's performance, collected and aggregated at regular intervals. They can be used to monitor the application's health and performance, and to set alerts or notifications when thresholds are exceeded.
+##### Actuator:
+- Actuator is mainly used to expose operational information about the running application — health, metrics, info, dump, env, etc. It uses HTTP endpoints or JMX beans to enable us to interact with it.
+
+##### Micrometer:
+- Micrometer automatically exposes /actuator/metrics data into something your monitoring system can understand. All you need to do is include that vendor-specific micrometer dependency in your application. Think SLF4J, but for metrics.
+
+##### Prometheus:
+- The most common format for exporting metrics is the one used by Prometheus, which is "an open-source systems monitoring and alerting toolkit". Just as Loki aggregates and stores event logs, Prometheus does the same with metrics.
+
+##### Grafana:
+- Grafana is a visualization tool that can be used to create dashboards and charts from Prometheus data.
+
+![image](https://github.com/user-attachments/assets/461fade0-a1eb-47c5-a9d5-19027e818d6c)
+
+#### Distributed Tracing [Distributed tracing with OpenTeIemetry, Tempo & Grafana]
+##### OpenTelemetry
+- Usuing OpenTeIemetry generate traces and spans automatically. OpenTelemetry also known as OTel for short, is a vendor-neutral open-source Observability framework for instrumenting, generating, collecting, and exporting telemetry data such as traces, metrics,logs.
+##### Tempo
+- Index the tracing information using Grafana Tempo. Tempo is an open-source, highly scalable, and cost-effective distributed tracing backend designed for observability in cloud-native environments. It is a part of the Grafana observability stack and provides a dedicated solution for efficient storage, retrieval, and analysis of trace data.
+##### Grafana
+- Using Grafana, we can connect to Tempo as a datasource and see the distributed tracing in action with the help of visuals. We can integrate Loki and Tempo as well, so that we can jump to tracing details directly from logs inside Loki
+![image](https://github.com/user-attachments/assets/a92b7687-2841-4a43-96af-c0da6379aab9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
