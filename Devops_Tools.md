@@ -14,6 +14,13 @@
 ## Docker
 
 ## Kubernetes
+### Kubernetes Components:
+
+### Helm:
+
+### Ingress:
+
+### Service Mesh (Istio):
 
 ## Observability & Monitoring
 ### Observability : 
