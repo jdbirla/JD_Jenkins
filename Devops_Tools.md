@@ -19,6 +19,7 @@
 ### Helm:
 
 ### Ingress:
+![image](https://github.com/user-attachments/assets/d1513f92-c74b-4a5f-8b62-86a2fd147c18)
 
 ### Service Mesh (Istio):
 
