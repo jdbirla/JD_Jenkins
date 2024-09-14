@@ -22,6 +22,15 @@
 
 ### Service Mesh (Istio):
 
+![image](https://github.com/user-attachments/assets/f8303a41-00e9-4050-aec7-26ce9814f003)
+![image](https://github.com/user-attachments/assets/a1f36730-fdac-4f07-8f5d-1fb55fd1ef31)
+![image](https://github.com/user-attachments/assets/f365fed2-9687-434c-a3a8-d50588ccc1ea)
+
+
+
+![image](https://github.com/user-attachments/assets/68e84088-90f7-49ff-b388-c40aa2e7c4d2)
+![image](https://github.com/user-attachments/assets/8edfcdb6-db6f-4299-847a-991eb86fcf0c)
+
 ## Observability & Monitoring
 ### Observability : 
 - Observability is the ability to understand the internal state of a system by observing its outputs. In the context of microservices, observability is achieved by collecting and analyzing data from a variety of sources, such as metrics, logs, and traces.
