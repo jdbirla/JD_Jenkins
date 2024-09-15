@@ -14,6 +14,117 @@
 ## Docker
 
 ## Kubernetes
+In Kubernetes, **Persistent Volumes (PVs)** are used to provide a way for containers to retain data, even after the pod or container is deleted or recreated. Unlike regular volumes, which are ephemeral and tied to the lifecycle of a pod, persistent volumes exist beyond the lifespan of a single pod and allow data to persist across different pods.
+
+#### Key Concepts in Persistent Volumes:
+
+1. **Persistent Volume (PV):**  
+   A Persistent Volume is a piece of storage in the cluster that has been provisioned by an administrator or dynamically provisioned using Storage Classes. It is independent of any pod's lifecycle.
+
+2. **Persistent Volume Claim (PVC):**  
+   A Persistent Volume Claim is a request for storage by a user. Pods use PVCs to access persistent storage. The PVC specifies how much storage is required and the access mode (e.g., ReadWriteOnce, ReadOnlyMany).
+
+3. **Storage Classes:**  
+   Storage Classes define different types of storage offered in a cluster (e.g., SSD, HDD). It helps in dynamically provisioning Persistent Volumes. When a PVC is created with a Storage Class, Kubernetes automatically provisions a PV that matches the requested storage class and size.
+
+#### How Persistent Volumes Work:
+1. **PV Creation:**  
+   An admin can manually create a Persistent Volume by defining it in a YAML file, specifying the storage type (NFS, AWS EBS, etc.), capacity, and access modes.
+
+2. **PVC Request:**  
+   A user creates a PVC to request a certain amount of storage. Kubernetes will look for a matching PV (or dynamically create one) that satisfies the claim.
+
+3. **Pod Binding:**  
+   Once a PV is bound to a PVC, a pod can use that storage by specifying the PVC in its configuration. The pod can now access the data stored in the PV, and this data persists even if the pod is deleted or restarted.
+
+4. **Access Modes:**
+   - **ReadWriteOnce (RWO):** The volume can be mounted as read-write by a single node.
+   - **ReadOnlyMany (ROX):** The volume can be mounted as read-only by multiple nodes.
+   - **ReadWriteMany (RWX):** The volume can be mounted as read-write by many nodes simultaneously.
+
+5. **Retain, Recycle, and Delete Policies:**
+   - **Retain:** Keeps the data in the PV even after the PVC is deleted.
+   - **Recycle:** Deletes the data but keeps the volume (usually just for testing).
+   - **Delete:** Deletes both the data and the PV when the PVC is deleted.
+
+### Example of Persistent Volume and Persistent Volume Claim:
+
+**Persistent Volume (PV) YAML:**
+```yaml
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-storage
+spec:
+  capacity:
+    storage: 1Gi
+  accessModes:
+    - ReadWriteOnce
+  persistentVolumeReclaimPolicy: Retain
+  nfs:
+    path: /mnt/data
+    server: 192.168.1.100
+```
+
+**Persistent Volume Claim (PVC) YAML:**
+```yaml
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-storage
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+```
+
+**Pod YAML:**
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-using-pvc
+spec:
+  containers:
+  - name: my-container
+    image: nginx
+    volumeMounts:
+    - mountPath: "/usr/share/nginx/html"
+      name: storage
+  volumes:
+  - name: storage
+    persistentVolumeClaim:
+      claimName: pvc-storage
+```
+
+In this example:
+- The Persistent Volume (PV) is an NFS volume with 1GiB of storage.
+- The Persistent Volume Claim (PVC) requests 1GiB of storage with `ReadWriteOnce` access.
+- The pod then mounts the storage from the PVC into its container at the specified path.
+
+### Use Cases for Persistent Volumes:
+- **Databases:** Storing database files that need to persist across pod restarts.
+- **File Storage:** Shared files that need to be accessed by multiple pods.
+- **Backup and Restore:** Persistent storage for application data that is backed up or restored regularly.
+
+### Dynamic Provisioning:
+Kubernetes can dynamically provision PVs using a **StorageClass**. When a PVC requests a PV, Kubernetes will automatically create one that matches the requirements if there is no existing PV available.
+
+**StorageClass YAML Example:**
+```yaml
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  name: fast
+provisioner: kubernetes.io/aws-ebs
+parameters:
+  type: gp2
+  zone: us-west-2a
+```
+
+By leveraging persistent volumes, Kubernetes enables stateful applications and ensures that data is not lost when pods or containers are rescheduled or restarted.
 ### Kubernetes Components:
 
 ### Helm:
