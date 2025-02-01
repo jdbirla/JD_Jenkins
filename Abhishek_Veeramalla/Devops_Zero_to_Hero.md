@@ -15,4 +15,9 @@
 ![image](https://github.com/user-attachments/assets/182db9cc-d5e4-4a5b-afa1-3f54df70123c)
 ![image](https://github.com/user-attachments/assets/25da2b0f-1951-43df-a850-59f05b455b5c)
 
-## Day 3 Virtual Machines part-1
+## Day3 Virtual Machines part-1
+![image](https://github.com/user-attachments/assets/252923ec-ce67-4816-8d2a-4e8283619676)
+![image](https://github.com/user-attachments/assets/2cf7653e-fc27-4f9c-ba43-f8bf59ad49df)
+
+## Day4 : AWS & Azure : How to create Virtual Machines
+
