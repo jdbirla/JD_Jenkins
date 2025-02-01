@@ -82,11 +82,20 @@
 ## Day11 : Git Interview Q&A
 ![image](https://github.com/user-attachments/assets/80865e2f-9c86-4e2a-9139-5726f69ce381)
 
-## Git12 : Deploy and expose your first APP to AWS
+## Day12 : Deploy and expose your first APP to AWS
+
+## Day13 : Top 15 AWS Services
+
+## Day14 : Configuration Management with Ansible
+
+![image](https://github.com/user-attachments/assets/e295ca2e-0ee8-47fe-b77c-a3d598456ea4)
+![image](https://github.com/user-attachments/assets/d90a9c78-fb63-4fd0-acfe-df7d0bc3a2d1)
+![image](https://github.com/user-attachments/assets/01020702-4ae1-410a-a1e1-754b2878cfd4)
+![image](https://github.com/user-attachments/assets/d57949c6-7868-4e6d-8302-88a3e09a5db9)
+![image](https://github.com/user-attachments/assets/12be3fac-8126-4cca-914e-0a1733304718)
 
 
-
-
+## Day15 : Ansible Zero to Hero
 
 
 
