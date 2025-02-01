@@ -48,16 +48,31 @@
 - https://github.com/aws-cloudformation/aws-cloudformation-templates/tree/main/EC2
 ![image](https://github.com/user-attachments/assets/e3720289-3602-40d8-957b-2c554f90e84f)
 ![image](https://github.com/user-attachments/assets/2815d734-7748-43a5-a9ac-86eb132fea3d)
+![image](https://github.com/user-attachments/assets/146e3589-1116-44c8-84bf-c857e8738d78)
 
 
+## Day6 : Linux & Shell Scripting
+![image](https://github.com/user-attachments/assets/69b00eaa-0e1d-419c-80bc-b4d2b2a06c7d)
 
 
+## Shell Scripting zero to hero (To be completed)
+- https://www.youtube.com/watch?v=zsajhz2_50g&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=8
+- https://www.youtube.com/watch?v=CyQtk9f646Q&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=9
+- https://www.youtube.com/watch?v=0jgqMKuADX0&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=10
 
 
+## Day7 : Live AWS Project Using Shell Scripting
+![image](https://github.com/user-attachments/assets/35852a8e-2fc1-4b0a-85eb-df620f5b732b)
+![image](https://github.com/user-attachments/assets/7fe5a427-01c8-4e5a-9e71-bd2cb828b389)
+![image](https://github.com/user-attachments/assets/b7c7f705-4d2c-4620-ae91-3fc683fe67c2)
 
+## Day8 : Live AWS Project Using Shell Scripting
+- https://github.com/iam-veeramalla/shell-scripting-projects/blob/main/github-api/list-users.sh
 
+![image](https://github.com/user-attachments/assets/14c6b0e7-dbc6-4fc9-9a59-c75691cdc068)
+![image](https://github.com/user-attachments/assets/d5ee2a08-419a-455f-a46a-ae21d734b230)
 
-
+## Day9 : Git and GitHub
 
 
 
