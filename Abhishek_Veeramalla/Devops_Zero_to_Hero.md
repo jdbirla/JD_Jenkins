@@ -80,7 +80,9 @@
 
 
 ## Day11 : Git Interview Q&A
+![image](https://github.com/user-attachments/assets/80865e2f-9c86-4e2a-9139-5726f69ce381)
 
+## Git12 : Deploy and expose your first APP to AWS
 
 
 
