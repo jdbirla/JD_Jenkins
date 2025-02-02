@@ -136,6 +136,57 @@
 ![image](https://github.com/user-attachments/assets/760665a9-19c4-4e09-bed1-f6b9c7973841)
 ![image](https://github.com/user-attachments/assets/f3791793-f84a-4a91-a45f-95cba0288d96)
 ![image](https://github.com/user-attachments/assets/35ba3f36-06aa-43d9-9d4b-e66cddd1abbb)
+![image](https://github.com/user-attachments/assets/3de17fee-e3e5-4e75-9866-c1258fcb4362)
+![image](https://github.com/user-attachments/assets/3c0a8f20-14a8-44eb-9025-b923accf5baa)
+![image](https://github.com/user-attachments/assets/7678153c-711b-4266-b914-d62026e6f426)
+![image](https://github.com/user-attachments/assets/c5f77003-9e9d-4942-8229-ccc84d316c64)
+
+
+
+## Day18 : CICD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
