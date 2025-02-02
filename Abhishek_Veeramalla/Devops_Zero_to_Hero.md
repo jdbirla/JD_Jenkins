@@ -181,8 +181,12 @@ jobs:
 ```
 ![image](https://github.com/user-attachments/assets/764a6878-61ab-419f-92c9-c12ecb4669eb)
 
+## Day21 : CICD Interview
+- https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/blob/main/Interview_Questions.md
 
-### Day21 : CICD Interview
+## Day22 : Project Management tool for DevOps
+![image](https://github.com/user-attachments/assets/2370a066-dbd6-405e-be03-8e9aacb2d587)
+
 
 
 
