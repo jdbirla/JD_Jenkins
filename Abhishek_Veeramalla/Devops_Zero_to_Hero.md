@@ -188,6 +188,12 @@ jobs:
 ![image](https://github.com/user-attachments/assets/2370a066-dbd6-405e-be03-8e9aacb2d587)
 
 
+## JIRA Workflow in Real Time 
+- https://www.youtube.com/watch?v=pUAadFQjnvc&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=28
+![image](https://github.com/user-attachments/assets/d4d7758d-0b93-43b6-b539-973e1023cd92)
+![image](https://github.com/user-attachments/assets/e9267269-6f07-47bd-97b3-0e375adf8d37)
+
+## Day23 : Introduction to Containers
 
 
 
