@@ -128,6 +128,14 @@
 
 
 ## Day17 : Terraform
+- https://github.com/iam-veeramalla/write_your_first_terraform_project
+![image](https://github.com/user-attachments/assets/a60edba7-bb47-4768-a3f7-0082230cc39b)
+![image](https://github.com/user-attachments/assets/5f592f0c-b896-498f-9e66-c0d07d43289a)
+![image](https://github.com/user-attachments/assets/def33092-a25b-4568-b84b-9e175549933b)
+![image](https://github.com/user-attachments/assets/1721a622-28db-4780-b398-216ebc806d36)
+![image](https://github.com/user-attachments/assets/760665a9-19c4-4e09-bed1-f6b9c7973841)
+![image](https://github.com/user-attachments/assets/f3791793-f84a-4a91-a45f-95cba0288d96)
+![image](https://github.com/user-attachments/assets/35ba3f36-06aa-43d9-9d4b-e66cddd1abbb)
 
 
 
