@@ -96,8 +96,22 @@
 
 
 ## Day15 : Ansible Zero to Hero
-
-
+![image](https://github.com/user-attachments/assets/4090b997-6d34-4489-8456-737bd518b505)
+![image](https://github.com/user-attachments/assets/486fb978-f9b4-4aae-8b4c-9dda942bb0e5)
+![image](https://github.com/user-attachments/assets/3c477bc2-f1d0-4169-8a64-85fdb082e6fc)
+![image](https://github.com/user-attachments/assets/4e23920c-70eb-4090-a131-a3a5bf7c9d4a)
+![image](https://github.com/user-attachments/assets/96ab6e4a-a6da-4ee7-9c0d-a14bfc125ebd)
+![image](https://github.com/user-attachments/assets/348e5872-54e9-4427-8433-6e56d2da30ab)
+![image](https://github.com/user-attachments/assets/d59a4c05-9363-4120-8af7-88485a6620e8)
+![image](https://github.com/user-attachments/assets/f690ce1c-3d50-4bdb-ac1c-c96c4b8e63bb)
+![image](https://github.com/user-attachments/assets/d3ce46a1-d93f-4846-8b20-367239c6d380)
+- copy public key from ansible machine to target machine's authorized key
+![image](https://github.com/user-attachments/assets/7fc5a48e-958d-43e1-92e9-f43f0e19664d)
+- SSH will be enable withou password
+![image](https://github.com/user-attachments/assets/0d7cd73a-bd42-4de1-83c1-c81295f69c15)
+![image](https://github.com/user-attachments/assets/221fb729-41d2-4056-a20c-a64461bfb01d)
+![image](https://github.com/user-attachments/assets/a0b8b4ac-2ed0-4f72-becf-1517d7a2d373)
+![image](https://github.com/user-attachments/assets/79d061e6-50ef-4317-afe5-cace5e9963f0)
 
 
 
