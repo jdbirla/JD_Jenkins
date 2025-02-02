@@ -149,9 +149,40 @@
 ## Day19 : Jenkin Zero to Hero
 - https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero
 ![image](https://github.com/user-attachments/assets/74b5d811-dbd3-4384-ad2a-c9c294234699)
+![image](https://github.com/user-attachments/assets/de5ed26b-81dd-4954-85e8-851b419ac3da)
+![image](https://github.com/user-attachments/assets/0d504e83-632e-4a5e-b457-e5a826742760)
+![image](https://github.com/user-attachments/assets/623691d1-23d8-47e8-b552-57e5ffe10243)
+![image](https://github.com/user-attachments/assets/66a02920-422a-405f-b0bd-4056fbacbe19)
+![image](https://github.com/user-attachments/assets/62bb5b42-7877-4360-8dac-5eacb4e0a981)
+
+## Day20-1 : Github Actions
+- https://github.com/iam-veeramalla/GitHub-Actions-Zero-to-Hero
+  
+
+## Day20-2 : Github Actions Self-hosted runners
+
+- Default runnuer
+```sh
+jobs:
+  build:
+    runs-on: ubuntu-latest
+```
+- Self Hosted runner on AWS Ec2
+![image](https://github.com/user-attachments/assets/145c2cd7-64cd-4612-826a-de5d54577dfe)
+![image](https://github.com/user-attachments/assets/c6693991-004b-4111-97e4-6e0a20dd6c26)
+![image](https://github.com/user-attachments/assets/4989b227-9ca1-4bd1-8eb8-2ff879f3b664)
+![image](https://github.com/user-attachments/assets/586adf4b-900e-4f5f-97d7-bf9625f67a5f)
+![image](https://github.com/user-attachments/assets/a078f107-e187-41bd-b76e-acc3050fea79)
+
+```sh
+jobs:
+  build:
+    runs-on: self-hosted
+```
+![image](https://github.com/user-attachments/assets/764a6878-61ab-419f-92c9-c12ecb4669eb)
 
 
-
+### Day21 : CICD Interview
 
 
 
