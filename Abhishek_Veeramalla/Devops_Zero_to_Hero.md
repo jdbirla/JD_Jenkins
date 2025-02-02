@@ -121,10 +121,13 @@
 ![image](https://github.com/user-attachments/assets/c4f8bd05-0e50-4e72-b5db-1fa21345e284)
 ![image](https://github.com/user-attachments/assets/6f773512-fd63-4d4c-9a72-9c13cda162aa)
 
+## Day16 : Infrastructure as Code
+![image](https://github.com/user-attachments/assets/fe05cad2-9268-44dc-a201-6e091184aa77)
+![image](https://github.com/user-attachments/assets/b97c9656-f188-4b1d-a282-9f4c8cfce067)
+![image](https://github.com/user-attachments/assets/1f705cef-e77d-486a-b1e8-9795fd04e3e7)
 
 
-
-
+## Day17 : Terraform
 
 
 
