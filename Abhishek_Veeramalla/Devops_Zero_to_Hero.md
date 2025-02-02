@@ -141,11 +141,14 @@
 ![image](https://github.com/user-attachments/assets/7678153c-711b-4266-b914-d62026e6f426)
 ![image](https://github.com/user-attachments/assets/c5f77003-9e9d-4942-8229-ccc84d316c64)
 
-
-
 ## Day18 : CICD
+![image](https://github.com/user-attachments/assets/e07ac9dc-97d4-4ed7-8179-015d576ccf81)
+![image](https://github.com/user-attachments/assets/afb5b204-6ee2-431e-a961-6cd913bab5eb)
 
 
+## Day19 : Jenkin Zero to Hero
+- https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero
+![image](https://github.com/user-attachments/assets/74b5d811-dbd3-4384-ad2a-c9c294234699)
 
 
 
