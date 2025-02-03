@@ -283,6 +283,13 @@ jobs:
 
 
 ## Day32 : How to manage Hundreds of Kubernetes
+- https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero
+![image](https://github.com/user-attachments/assets/60c007aa-20df-430c-b782-d4c7df453001)
+![image](https://github.com/user-attachments/assets/90053548-4b46-40df-bbb3-b94d9026ba63)
+- Kubernetes managing in production The easiest way to get a production grade Kubernetes cluster up and running.
+- https://kops.sigs.k8s.io/
+- https://kubernetes.io/docs/reference/setup-tools/kubeadm/
+![image](https://github.com/user-attachments/assets/cdd70194-7e62-43e1-b4fe-6b945d0678d9)
 
 
 
