@@ -194,11 +194,22 @@ jobs:
 ![image](https://github.com/user-attachments/assets/e9267269-6f07-47bd-97b3-0e375adf8d37)
 
 ## Day23 : Introduction to Containers
+![image](https://github.com/user-attachments/assets/c8488e36-6295-4cfa-a433-88b49fe22c4b)
+
+## Day24 : Docker Zero to Hero
+- https://github.com/iam-veeramalla/Docker-Zero-to-Hero
+- https://github.com/iam-veeramalla/Docker-Zero-to-Hero/blob/main/networking.md
+- https://github.com/iam-veeramalla/Docker-Zero-to-Hero/blob/main/commands.md
+![image](https://github.com/user-attachments/assets/ac21ab74-7c6d-4788-ab0b-9d9ca045e285)
+![image](https://github.com/user-attachments/assets/defecdc6-7e74-463e-b6bb-104b5c434600)
+![image](https://github.com/user-attachments/assets/63df3ad4-115e-4020-93cc-b687b2bebadf)
+![image](https://github.com/user-attachments/assets/c6f345b5-cb46-4cef-a2c4-c33617edbd64)
+
+## Day25 : Docker containerzation for Django
+![image](https://github.com/user-attachments/assets/9469ff66-a641-4899-b6a9-cde4b16d9ebe)
 
 
-
-
-
+## Day26 : Multi Stage DOcker Builds Reduce Image size
 
 
 
