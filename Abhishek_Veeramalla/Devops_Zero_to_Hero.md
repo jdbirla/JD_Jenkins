@@ -210,7 +210,19 @@ jobs:
 
 
 ## Day26 : Multi Stage DOcker Builds Reduce Image size
+![image](https://github.com/user-attachments/assets/bfeb095d-8e23-4176-998a-653f17fa9e7c)
+![image](https://github.com/user-attachments/assets/68bda273-e54a-4ab4-93f0-499b101fa3ea)
+![image](https://github.com/user-attachments/assets/b7a8c999-bb7a-42b9-9f44-64cad030e880)
+![image](https://github.com/user-attachments/assets/27990027-a841-4d8f-88db-0ac4455b0ea0)
+![image](https://github.com/user-attachments/assets/d8ab3695-d2f8-4fa0-ae4a-6d3ec5b61aac)
+![image](https://github.com/user-attachments/assets/48408b87-9cc2-4227-bcd4-accad297a9b1)
+![image](https://github.com/user-attachments/assets/51a19640-fd2e-47b9-8a69-5ea8bc112fa3)
+![image](https://github.com/user-attachments/assets/b4f2469a-8c89-4218-ad53-51f3067982a9)
+![image](https://github.com/user-attachments/assets/c9b96114-6fb5-4cbf-9842-5a44c0a9dd7b)
+![image](https://github.com/user-attachments/assets/9b3e887a-b466-4e97-bb0a-d2e4855dfdc1)
+![image](https://github.com/user-attachments/assets/6bba326c-f02a-4fdf-9cd1-ab90f678a5ac)
 
+## Day27 : Docker volumes and bind mounts
 
 
 
