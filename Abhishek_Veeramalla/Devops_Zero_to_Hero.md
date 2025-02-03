@@ -290,6 +290,56 @@ jobs:
 - https://kops.sigs.k8s.io/
 - https://kubernetes.io/docs/reference/setup-tools/kubeadm/
 ![image](https://github.com/user-attachments/assets/cdd70194-7e62-43e1-b4fe-6b945d0678d9)
+- https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero
+![image](https://github.com/user-attachments/assets/3ff6a4aa-da31-44bf-b182-b09122fa904a)
+
+
+## Day33 : Kubernetes Pods
+- https://kubernetes.io/docs/reference/kubectl/quick-reference/
+![image](https://github.com/user-attachments/assets/1c46403d-ebfb-4875-b654-14597ce19631)
+![image](https://github.com/user-attachments/assets/af3b45d7-2c4f-4615-91b6-6e43d27f2564)
+![image](https://github.com/user-attachments/assets/ee707022-6d8d-47cb-a4b9-a8ecbc439237)
+![image](https://github.com/user-attachments/assets/ed89b971-5d0a-4a0c-b46c-e05b90e461c7)
+![image](https://github.com/user-attachments/assets/ab554bb4-211e-42c2-85ac-fb3e7e097877)
+
+## Day34 : Kubernestes Deployment
+![image](https://github.com/user-attachments/assets/7a80e63b-9cd7-40aa-8488-a8ba36fe65d1)
+![image](https://github.com/user-attachments/assets/aa5c4b46-7b7f-49dd-bf3a-f8feab316db7)
+![image](https://github.com/user-attachments/assets/bf9d6f66-7619-439f-962f-959267ac56d8)
+
+## Day35 : Kubernetes Services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
