@@ -282,6 +282,7 @@ jobs:
 ![image](https://github.com/user-attachments/assets/08d64006-25ed-457f-8bd4-38ccb7005791)
 
 
+## Day32 : How to manage Hundreds of Kubernetes
 
 
 
