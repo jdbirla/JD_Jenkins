@@ -328,6 +328,15 @@ jobs:
 
 
 ## Day37 : K8S Deep Dive Services
+- https://www.kubeshark.co/
+![image](https://github.com/user-attachments/assets/2e976c4b-518f-43a3-ba4c-604b4829a4b9)
+![image](https://github.com/user-attachments/assets/6041d218-474e-47e9-8816-ef44e22a25df)
+![image](https://github.com/user-attachments/assets/c47230f3-5df4-425e-91e0-4c10e4cb218d)
+![image](https://github.com/user-attachments/assets/761fb7c6-ba9d-41f9-b50a-7e26c1999eee)
+![image](https://github.com/user-attachments/assets/a33530ab-cd54-482e-bfc2-9b274c7fe0d7)
+![image](https://github.com/user-attachments/assets/3a7f8171-297b-4437-aa43-41ec4ff4e25b)
+
+# Day38: K8S Ingress
 
 
 
