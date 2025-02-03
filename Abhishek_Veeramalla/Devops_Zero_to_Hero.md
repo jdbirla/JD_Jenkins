@@ -309,7 +309,17 @@ jobs:
 
 ## Day35 : Kubernetes Services
 
+![image](https://github.com/user-attachments/assets/3f0d650f-d839-492d-b331-a3cd97941175)
+![image](https://github.com/user-attachments/assets/2ef6f898-5c08-4eac-9684-46a4509b2843)
+![image](https://github.com/user-attachments/assets/9dffa8bf-65cb-4f02-94f6-5392fbd15717)
+![image](https://github.com/user-attachments/assets/78af2158-df4c-4f54-8fa2-d176228d48be)
+![image](https://github.com/user-attachments/assets/59df2550-71f6-4f97-905a-116baa32a3f6)
+![image](https://github.com/user-attachments/assets/3297b891-955e-4737-9a21-ff2d30268050)
+![image](https://github.com/user-attachments/assets/c1095b54-f79a-4f44-85e6-9ea8f698baac)
+![image](https://github.com/user-attachments/assets/c938dca7-143d-4c51-8a15-8cc71657c6b4)
+![image](https://github.com/user-attachments/assets/fd0ef5dc-67d5-4409-86a6-b5738e38e004)
 
+## Day36 : K8S Interview Question
 
 
 
