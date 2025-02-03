@@ -223,8 +223,49 @@ jobs:
 ![image](https://github.com/user-attachments/assets/6bba326c-f02a-4fdf-9cd1-ab90f678a5ac)
 
 ## Day27 : Docker volumes and bind mounts
+![image](https://github.com/user-attachments/assets/ad36c37a-eda0-4f8c-b340-5a6282198434)
+![image](https://github.com/user-attachments/assets/0a2428d5-52d9-460e-be09-f7d2b743c173)
+![image](https://github.com/user-attachments/assets/caebfab6-6b47-46e9-b500-b252d5b7dd35)
+![image](https://github.com/user-attachments/assets/13f395d2-a2cf-4077-9519-454b00a566c0)
+![image](https://github.com/user-attachments/assets/0a0f58fb-a833-401a-9131-0fa04f9f75fe)
+![image](https://github.com/user-attachments/assets/f10735ec-d32c-4d74-8ac1-89b5de71f69e)
 
+## Day28 : Docker networking
+![image](https://github.com/user-attachments/assets/76186c42-becb-49a2-9c67-b13488d1595a)
+![image](https://github.com/user-attachments/assets/0d3a57ab-7cbc-4654-a9ea-1c1b8f0d4824)
+![image](https://github.com/user-attachments/assets/4e1ef75f-1ae5-485b-bee6-0ede82857e25)
+![image](https://github.com/user-attachments/assets/ef86ce22-3777-441b-985a-e904cbcbfe36)
+![image](https://github.com/user-attachments/assets/e696132f-d9c2-434d-a429-dfce14e68cda)
+- Login container
+![image](https://github.com/user-attachments/assets/5e32449e-338a-46f5-a032-f35fb568e156)
+![image](https://github.com/user-attachments/assets/e1a2782c-f422-4796-8569-584571868cb4)
 
+- Logout Container
+![image](https://github.com/user-attachments/assets/f2635bbe-3f58-4bd7-8bc5-b52cc064452b)
+![image](https://github.com/user-attachments/assets/c028e7e4-5b1d-439b-a9e0-0393c62d586b)
+
+- Pinging from login to logout
+  ![image](https://github.com/user-attachments/assets/d25c402d-db43-40f8-90dd-15062356e5e6)
+
+- creating custom network
+![image](https://github.com/user-attachments/assets/d7883a0e-18f2-4f59-bee6-353e954e7d3e)
+![image](https://github.com/user-attachments/assets/eac3bac4-5f14-4658-9d9f-9ea772b26e43)
+
+- Creating finance container using custom netwrok
+![image](https://github.com/user-attachments/assets/b0b64e3a-707c-4b24-9fc1-4f4cb020d62e)
+![image](https://github.com/user-attachments/assets/2553e68d-766a-45ec-83e8-4a80da1f5b49)
+
+- Finance Container
+![image](https://github.com/user-attachments/assets/eeddaa56-3770-4d73-ab54-41fa902cfadb)
+
+- Trying to ping the Finance container from login container
+![image](https://github.com/user-attachments/assets/5c680897-20cf-4739-93e6-b2f8cfe60175)
+
+- Creating a container using host network
+![image](https://github.com/user-attachments/assets/37903fc2-d1b7-4398-bafd-4ea6d4dba019)
+![image](https://github.com/user-attachments/assets/27f25177-0b21-461c-acc3-f3229766f7b5)
+
+## Day29 : Docker Interview
 
 
 
