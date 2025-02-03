@@ -319,8 +319,15 @@ jobs:
 ![image](https://github.com/user-attachments/assets/c938dca7-143d-4c51-8a15-8cc71657c6b4)
 ![image](https://github.com/user-attachments/assets/fd0ef5dc-67d5-4409-86a6-b5738e38e004)
 
-## Day36 : K8S Interview Question
+## Day36 : K8S Interview Question part -1
+![image](https://github.com/user-attachments/assets/cac9f9ad-1ccf-4951-9215-a5aa55cb99bb)
+![image](https://github.com/user-attachments/assets/67a19801-7663-4b4d-a9cf-6988a072ddac)
+![image](https://github.com/user-attachments/assets/a53fdbf4-2bf6-4ef6-8de8-5ed0269040dc)
+![image](https://github.com/user-attachments/assets/a4ed5ffb-05a4-4650-bbe2-eb72aa97466b)
+![image](https://github.com/user-attachments/assets/5c29b3b4-41e7-40c9-8781-c657ee3a6b94)
 
+
+## Day37 : K8S Deep Dive Services
 
 
 
