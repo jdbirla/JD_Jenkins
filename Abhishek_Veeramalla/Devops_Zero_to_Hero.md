@@ -266,9 +266,20 @@ jobs:
 ![image](https://github.com/user-attachments/assets/27f25177-0b21-461c-acc3-f3229766f7b5)
 
 ## Day29 : Docker Interview
+![image](https://github.com/user-attachments/assets/22349fb9-2bb4-4a46-9440-f3021631a392)
 
 
+## Day30 : Kubernetes
+![image](https://github.com/user-attachments/assets/65b6815f-4716-433c-a86c-b9482663aa36)
+![image](https://github.com/user-attachments/assets/3a1ebb1d-fc14-46da-bea0-cfd6e608d80c)
 
+## Day31 : Kubernetes Architecture
+![image](https://github.com/user-attachments/assets/60d02531-2718-4911-98c8-2d4270818533)
+![image](https://github.com/user-attachments/assets/5a0a6343-e61c-4aeb-b08a-8433509807a8)
+![image](https://github.com/user-attachments/assets/682a6cbe-be01-4ca9-b026-7bab53147f15)
+![image](https://github.com/user-attachments/assets/b308f3d4-cf0a-48f1-815b-40df4ede58bc)
+![image](https://github.com/user-attachments/assets/7cb17a93-081a-4c95-8244-e54247f90c4a)
+![image](https://github.com/user-attachments/assets/08d64006-25ed-457f-8bd4-38ccb7005791)
 
 
 
