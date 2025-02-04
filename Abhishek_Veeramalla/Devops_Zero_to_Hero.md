@@ -337,6 +337,17 @@ jobs:
 ![image](https://github.com/user-attachments/assets/3a7f8171-297b-4437-aa43-41ec4ff4e25b)
 
 # Day38: K8S Ingress
+![image](https://github.com/user-attachments/assets/46f804f1-0c95-4261-a443-2aafe1354e23)
+![image](https://github.com/user-attachments/assets/e0d3347f-60cc-4560-a9e7-9195b33c3d9b)
+![image](https://github.com/user-attachments/assets/fde4b06f-6499-4ba2-943c-ba7ace1456d4)
+![image](https://github.com/user-attachments/assets/83624f04-5c1c-4402-a880-b9b54368f1a7)
+![image](https://github.com/user-attachments/assets/03ce2ebd-63ee-41a0-974f-1728b54588f3)
+![image](https://github.com/user-attachments/assets/0ebdf096-dd36-42f5-a77e-73e176b83b9b)
+![image](https://github.com/user-attachments/assets/d61e6bea-37bb-4117-ab69-f554e4b83c34)
+![image](https://github.com/user-attachments/assets/0de6d66c-6d3e-480e-aee6-6ae5570027c3)
+![image](https://github.com/user-attachments/assets/7cf67324-f628-46ab-98eb-5b591c891bda)
+![image](https://github.com/user-attachments/assets/a9e06895-e4d0-4d51-8fd2-dff824d5dcb4)
+![image](https://github.com/user-attachments/assets/bc8b74f5-25f1-4aff-9bf3-805f466c2c36)
 
 
 
