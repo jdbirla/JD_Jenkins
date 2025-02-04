@@ -348,8 +348,16 @@ jobs:
 ![image](https://github.com/user-attachments/assets/7cf67324-f628-46ab-98eb-5b591c891bda)
 ![image](https://github.com/user-attachments/assets/a9e06895-e4d0-4d51-8fd2-dff824d5dcb4)
 ![image](https://github.com/user-attachments/assets/bc8b74f5-25f1-4aff-9bf3-805f466c2c36)
+![image](https://github.com/user-attachments/assets/06f842b1-73a6-4629-96dd-e6755dd27fac)
+![image](https://github.com/user-attachments/assets/0c7dd1a3-e549-45c0-809c-7d161a2c3ce6)
+![image](https://github.com/user-attachments/assets/54a3aaeb-8b5e-4fb3-99e6-1fe82566bc95)
+![image](https://github.com/user-attachments/assets/a81f54b9-2932-45b6-956e-93387ef23576)
+![image](https://github.com/user-attachments/assets/7d8d31e1-f878-436b-9067-ae8740464cb0)
+![image](https://github.com/user-attachments/assets/49ebeb15-329b-484b-93a2-f9611fe5b92c)
 
-
+## Kubernetes Service , Ingress with TLS
+- https://www.youtube.com/watch?v=3YTU4EPjEh4&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=46
+  
 
 
 
